@@ -28,3 +28,13 @@ stories:
   - action: utter_did_that_help
   - intent: deny
   - action: utter_goodbye
+
+- story: send to home page
+  steps:
+    - intent: home_page
+    - action: utter_homepage
+
+- story: send to attendance page
+  steps:
+    - intent: attendance_page
+    - action: utter_attendance_page

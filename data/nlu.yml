@@ -90,3 +90,35 @@ nlu:
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
+
+- intent: home_page
+  examples: |
+    - visit website
+    - what is the website of college?
+    - college website?
+    - link for website?
+    - know more about college?
+    - more about college?
+    - website?
+
+- intent: attendance_page
+  examples: |
+    - where to find my attendance?
+    - my attendance?
+    - attendance?
+    - know my attendance?
+    - my child's attendance?
+    - attendance of my children
+    - attendance of my child
+    - my kid's attendance
+    - attendance of my kid
+    - where to find my kid's attendance?
+    - where to find my kid's attendance?
+    - complete attendance of my child's
+    - complete attendance of my kid
+    - my complete attendance
+    - tsec attendance
+    - college attendance
+    - student attendance
+
+

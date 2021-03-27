@@ -8,6 +8,8 @@ intents:
   - mood_great
   - mood_unhappy
   - bot_challenge
+  - home_page
+  - attendance_page
 
 responses:
   utter_greet:
@@ -29,6 +31,15 @@ responses:
   utter_iamabot:
   - text: "I am a bot, made for Thakur College."
 
+  utter_homepage:
+  - text: "https://www.tcsc.edu.in"
+
+  utter_attendance_page:
+  - text: "http://tcsc.org.in/attendanceChk/index.html"
+  # utter_default:
+  #   - text: "I'm sorry couldn't understand you, would you please rephrase it ?"
+  
 session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true
+
