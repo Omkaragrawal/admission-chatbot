@@ -38,3 +38,18 @@ stories:
   steps:
     - intent: attendance_page
     - action: utter_attendance_page
+
+- story: send to journals page
+  steps:
+    - intent: journals_page
+    - action: utter_journals_page
+    
+- story: send to feedback page
+  steps:
+    - intent: feedback_page
+    - action: utter_feedback_page
+       
+- story: send to international page
+  steps:
+    - intent: international_page
+    - action: utter_international_page

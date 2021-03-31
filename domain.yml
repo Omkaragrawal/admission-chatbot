@@ -10,6 +10,9 @@ intents:
   - bot_challenge
   - home_page
   - attendance_page
+  - journals_page
+  - feedback_page
+  - international_page
 
 responses:
   utter_greet:
@@ -29,13 +32,27 @@ responses:
   - text: "Bye"
 
   utter_iamabot:
-  - text: "I am a bot, made for Thakur College."
+  - text: "I am a bot, made for Thakur College of Science and Commerce (TCSC)."
 
   utter_homepage:
-  - text: "https://www.tcsc.edu.in"
+  - text: "<a href='https://www.tcsc.edu.in'>https://www.tcsc.edu.in</a>"
 
   utter_attendance_page:
-  - text: "http://tcsc.org.in/attendanceChk/index.html"
+  - text: "<a href='http://tcsc.org.in/attendanceChk/index.html'>http://tcsc.org.in/attendanceChk/index.html</a>"
+
+  utter_journals_page:
+  - text: "<a href='https://www.tcsc.edu.in/page/journals-magazines'>https://www.tcsc.edu.in/page/journals-magazines</a>"
+
+  utter_feedback_page:
+  - text: "<a href='https://www.tcsc.edu.in/manual/submit_teacher_feedback'>https://www.tcsc.edu.in/manual/submit_teacher_feedback</a>"
+
+  utter_international_page:
+  - text: "We are affiliated with <br> <ul> <li> University of the Fraser Valley, Canada </li><li> University of Canberra, Australia </li><li> Royal Roads University, Canada </li> </ul> <br>For more info you can visit here: <a href = 'https://www.tcsc.edu.in/page/international'>https://www.tcsc.edu.in/page/international</a>"
+
+  # utter_international_page:
+  # - text: ""
+
+
   # utter_default:
   #   - text: "I'm sorry couldn't understand you, would you please rephrase it ?"
   

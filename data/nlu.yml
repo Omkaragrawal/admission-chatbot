@@ -117,8 +117,66 @@ nlu:
     - complete attendance of my child's
     - complete attendance of my kid
     - my complete attendance
-    - tsec attendance
+    - tcsc attendance
     - college attendance
     - student attendance
 
+- intent: journals_page
+  examples: |
+    - tcsc journals
+    - tcsc magazines
+    - our journals
+    - our magazines
+    - journals
+    - magazines
+    - impetus journal
+    - your journals
+    - your magazines
 
+- intent: feedback_page
+  examples: |
+    - where do I submit feedback for teachers?
+    - where to submit feedback to college?
+    - feedback for teachers
+    - feedback to college
+    - is there a page to submit the feedback?
+    - address to submit feedback to college?
+    - address to submit feedback for teachers?
+    - tcsc feedback form
+    - feedback form
+    - confidential feedback form?
+    - print feedback form?
+    - where do I get the feedback form to print?
+
+- intent: international_page
+  examples: |
+    - do you support international studies?
+    - is international studies supported by college?
+    - is international studies supported by tcsc?
+    - is international studies supported by tcsc college?
+    - is international studies supported by our college?
+    - more info on international studies
+    - international studies
+    - international affiliations
+    - does tcsc have international affiliations
+    - study abroad?
+    - abroad studies?
+    - do you have affiliations with colleges abroad?
+    - do you have affiliations with universities abroad?
+    - tcsc international affiliations
+    - more info on abroad colleges affiliated to ours
+    - more info on abroad colleges affiliated to tcsc
+    - more info on abroad colleges affiliated to college
+    - details of students went to foreign colleges from ours
+    - details of students went to foreign colleges from tcsc
+    - list of international affiliated colleges
+    - how about international college affiliations?
+    - international tie ups of our college
+    - tie up with foreign colleges
+    - does college have any international tie ups?
+    - does the college support international education
+    - does the college support foreign education
+    - does the college support abroad education
+    - does the college support international studies
+    - does the college support foreign studies
+    - does the college support abroad studies
