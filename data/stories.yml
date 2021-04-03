@@ -53,3 +53,8 @@ stories:
   steps:
     - intent: international_page
     - action: utter_international_page
+           
+- story: send to about us page
+  steps:
+    - intent: about_page
+    - action: utter_about_page

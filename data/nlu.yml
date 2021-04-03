@@ -97,8 +97,6 @@ nlu:
     - what is the website of college?
     - college website?
     - link for website?
-    - know more about college?
-    - more about college?
     - website?
 
 - intent: attendance_page
@@ -180,3 +178,35 @@ nlu:
     - does the college support international studies
     - does the college support foreign studies
     - does the college support abroad studies
+    
+- intent: about_page
+  examples: |
+    - know more about college?
+    - more about college?
+    - about us
+    - about college
+    - about you
+    - about tcsc
+    - vission and mission of college
+    - mission and mission of college
+    - vission and mission of tcsc
+    - mission and mission of tcsc
+    - vission and mission
+    - mission and mission
+    - vision of college
+    - mission of college
+    - chairman's message
+    - principal's message
+    - trustee's message
+    - governing council
+    - academic council
+    - finance committee
+    - college development committee
+    - cdc
+    - messages from college
+    
+- intent: contact_page
+  examples: |
+    - Contact college?
+    - how to contact college?
+    - 

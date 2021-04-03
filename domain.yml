@@ -13,7 +13,7 @@ intents:
   - journals_page
   - feedback_page
   - international_page
-
+  - about_page
 responses:
   utter_greet:
   - text: "Hey! How are you?"
@@ -49,8 +49,8 @@ responses:
   utter_international_page:
   - text: "We are affiliated with <br> <ul> <li> University of the Fraser Valley, Canada </li><li> University of Canberra, Australia </li><li> Royal Roads University, Canada </li> </ul> <br>For more info you can visit here: <a href = 'https://www.tcsc.edu.in/page/international'>https://www.tcsc.edu.in/page/international</a>"
 
-  # utter_international_page:
-  # - text: ""
+  utter_about_page:
+  - text: "Please visit <a herf='https://www.tcsc.edu.in/page/about-us-about-tcsc' target = '__blank'>https://www.tcsc.edu.in/page/about-us-about-tcsc</a>"
 
 
   # utter_default:
