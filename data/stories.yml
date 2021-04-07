@@ -58,3 +58,18 @@ stories:
   steps:
     - intent: about_page
     - action: utter_about_page
+           
+- story: send to contact us page
+  steps:
+    - intent: contact_page
+    - action: utter_contact_page
+
+- story: send vision
+  steps:
+    - intent: send_vision
+    - action: utter_vission
+
+- story: send mission
+  steps:
+    - intent: send_mission
+    - action: utter_mission

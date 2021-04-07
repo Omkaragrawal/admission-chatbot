@@ -187,14 +187,6 @@ nlu:
     - about college
     - about you
     - about tcsc
-    - vission and mission of college
-    - mission and mission of college
-    - vission and mission of tcsc
-    - mission and mission of tcsc
-    - vission and mission
-    - mission and mission
-    - vision of college
-    - mission of college
     - chairman's message
     - principal's message
     - trustee's message
@@ -207,6 +199,41 @@ nlu:
     
 - intent: contact_page
   examples: |
-    - Contact college?
+    - contact college?
     - how to contact college?
-    - 
+    - where is college?
+    - college location
+    - college email
+    - college fees
+    - fees
+    - bsc fees
+    - bsc it fees
+    - bsc.it fees
+    - what is the fees for college?
+    - what is the fees for bsc.it?
+    - what is the fees?
+    - what is the college email?
+    - how do I contact college?
+    - contact number for college?
+    - contact no for college
+    - location of college?
+    - how to reach college?
+    - college address
+    - whom to meet?
+    - college office timing?
+    - office timing?
+    - college timing?
+ 
+- intent: send_vision
+  examples: |
+    - vision of college
+    - vision
+    - college vision
+    - what is the vision of college
+ 
+- intent: send_mission
+  examples: |
+    - mission of college
+    - mission
+    - college mission
+    - what is the mission of college
