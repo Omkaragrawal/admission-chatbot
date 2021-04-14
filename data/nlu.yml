@@ -196,6 +196,19 @@ nlu:
     - college development committee
     - cdc
     - messages from college
+    - what is the vission and mission of college?
+    - what is the mission and vission of college?
+    - what is your vission and mission?
+    - what is your mission and vission?
+    - vission and mission?
+    - mission and vision?
+    - what is the vission & mission of college?
+    - what is the mission & vission of college?
+    - what is your vission & mission?
+    - what is your mission & vission?
+    - vission & mission?
+    - mission & vision?
+    - 
     
 - intent: contact_page
   examples: |
@@ -237,3 +250,400 @@ nlu:
     - mission
     - college mission
     - what is the mission of college
+
+- intent: undergrad_staff_science
+  examples: |
+    - staff of science for undergraduate
+    - details of staff in science for undergraduate
+    - staff details of undergraduate in science 
+    - list of underaduate staff of science
+    - list of underaduate staff for science
+    - who are the staff in undergraduate in science
+    - undegraduate science staff
+
+- intent: undergrad_staff_botany
+  examples: |
+    - staff of botany for undergraduate
+    - details of staff in botany for undergraduate
+    - staff details of undergraduate in botany 
+    - list of underaduate staff of botany
+    - list of underaduate staff for botany
+    - who are the staff in undergraduate in botany
+    - undegraduate botany staff
+    
+- intent: undergrad_staff_chemistry
+  examples: |
+    - staff of Chemistry for undergraduate
+    - details of staff in Chemistry for undergraduate
+    - staff details of undergraduate in Chemistry 
+    - list of underaduate staff of Chemistry
+    - list of underaduate staff for Chemistry
+    - who are the staff in undergraduate in Chemistry
+    - undegraduate Chemistry staff
+    
+- intent: undergrad_staff_Physics
+  examples: |
+    - staff of Physics for undergraduate
+    - details of staff in Physics for undergraduate
+    - staff details of undergraduate in Physics 
+    - list of underaduate staff of Physics
+    - list of underaduate staff for Physics
+    - who are the staff in undergraduate in Physics
+    - undegraduate Physics staff
+    
+- intent: undergrad_staff_bio_tech
+  examples: |
+    - staff of Bio-Technology for undergraduate
+    - details of staff in Bio-Technology for undergraduate
+    - staff details of undergraduate in Bio-Technology 
+    - list of underaduate staff of Bio-Technology
+    - list of underaduate staff for Bio-Technology
+    - who are the staff in undergraduate in Bio-Technology
+    - undegraduate Bio-Technology staff
+
+- intent: undergrad_staff_zoology
+  examples: |
+    - staff of Zoology for undergraduate
+    - details of staff in Zoology for undergraduate
+    - staff details of undergraduate in Zoology 
+    - list of underaduate staff of Zoology
+    - list of underaduate staff for Zoology
+    - who are the staff in undergraduate in Zoology
+    - undegraduate Zoology staff
+    
+- intent: undergrad_staff_cs
+  examples: |
+    - staff of Computer Science for undergraduate
+    - details of staff in Computer Science for undergraduate
+    - staff details of undergraduate in Computer Science 
+    - list of underaduate staff of Computer Science
+    - list of underaduate staff for Computer Science
+    - who are the staff in undergraduate in Computer Science
+    - undegraduate Computer Science staff
+    - staff of CS for undergraduate
+    - details of staff in CS for undergraduate
+    - staff details of undergraduate in CS 
+    - list of underaduate staff of CS
+    - list of underaduate staff for CS
+    - who are the staff in undergraduate in CS
+    - undegraduate CS staff
+    
+- intent: undergrad_staff_it
+  examples: |
+    - staff of Information Technology for undergraduate
+    - details of staff in Information Technology for undergraduate
+    - staff details of undergraduate in Information Technology 
+    - list of underaduate staff of Information Technology
+    - list of underaduate staff for Information Technology
+    - who are the staff in undergraduate in Information Technology
+    - undegraduate Information Technology staff
+    - staff of IT for undergraduate
+    - details of staff in IT for undergraduate
+    - staff details of undergraduate in IT 
+    - list of underaduate staff of IT
+    - list of underaduate staff for IT
+    - who are the staff in undergraduate in IT
+    - undegraduate IT staff
+    
+- intent: undergrad_staff_maths
+  examples: |
+    - staff of Mathematics for undergraduate
+    - details of staff in Mathematics for undergraduate
+    - staff details of undergraduate in Mathematics 
+    - list of underaduate staff of Mathematics
+    - list of underaduate staff for Mathematics
+    - who are the staff in undergraduate in Mathematics
+    - undegraduate Mathematics staff
+    
+- intent: undergrad_staff_stats
+  examples: |
+    - staff of Statistics for undergraduate
+    - details of staff in Statistics for undergraduate
+    - staff details of undergraduate in Statistics 
+    - list of underaduate staff of Statistics
+    - list of underaduate staff for Statistics
+    - who are the staff in undergraduate in Statistics
+    - undegraduate Statistics staff
+
+- intent: undergrad_staff_commerce
+  examples: |
+    - staff of commerce for undergraduate
+    - details of staff in commerce for undergraduate
+    - staff details of undergraduate in commerce 
+    - list of underaduate staff of commerce
+    - list of underaduate staff for commerce
+    - who are the staff in undergraduate in commerce
+    - undegraduate commerce staff
+
+- intent: undergrad_staff_business_com
+  examples: |
+    - staff of Business Communication for undergraduate
+    - details of staff in Business Communication for undergraduate
+    - staff details of undergraduate in Business Communication 
+    - list of underaduate staff of Business Communication
+    - list of underaduate staff for Business Communication
+    - who are the staff in undergraduate in Business Communication
+    - undegraduate Business Communication staff
+
+- intent: undergrad_staff_law
+  examples: |
+    - staff of Law for undergraduate
+    - details of staff in Law for undergraduate
+    - staff details of undergraduate in Law 
+    - list of underaduate staff of Law
+    - list of underaduate staff for Law
+    - who are the staff in undergraduate in Law
+    - undegraduate Law staff
+
+- intent: undergrad_staff_env_stds
+  examples: |
+    - staff of Environmental Studies for undergraduate
+    - details of staff in Environmental Studies for undergraduate
+    - staff details of undergraduate in Environmental Studies 
+    - list of underaduate staff of Environmental Studies
+    - list of underaduate staff for Environmental Studies
+    - who are the staff in undergraduate in Environmental Studies
+    - undegraduate Environmental Studies staff
+    - staff of Foundation Course for undergraduate
+    - details of staff in Foundation Course for undergraduate
+    - staff details of undergraduate in Foundation Course 
+    - list of underaduate staff of Foundation Course
+    - list of underaduate staff for Foundation Course
+    - who are the staff in undergraduate in Foundation Course
+    - undegraduate Foundation Course staff
+    - staff of Environmental Studies/Foundation Course for undergraduate
+    - details of staff in Environmental Studies/Foundation Course for undergraduate
+    - staff details of undergraduate in Environmental Studies/Foundation Course 
+    - list of underaduate staff of Environmental Studies/Foundation Course
+    - list of underaduate staff for Environmental Studies/Foundation Course
+    - who are the staff in undergraduate in Environmental Studies/Foundation Course
+    - undegraduate Environmental Studies/Foundation Course staff
+
+- intent: undergrad_staff_eco
+  examples: |
+    - staff of Economics for undergraduate
+    - details of staff in Economics for undergraduate
+    - staff details of undergraduate in Economics 
+    - list of underaduate staff of Economics
+    - list of underaduate staff for Economics
+    - who are the staff in undergraduate in Economics
+    - undegraduate Economics staff
+    
+- intent: undergrad_staff_accounts
+  examples: |
+    - staff of Accountancy for undergraduate
+    - details of staff in Accountancy for undergraduate
+    - staff details of undergraduate in Accountancy 
+    - list of underaduate staff of Accountancy
+    - list of underaduate staff for Accountancy
+    - who are the staff in undergraduate in Accountancy
+    - undegraduate Accountancy staff
+    
+- intent: undergrad_staff_baf
+  examples: |
+    - staff of BAF for undergraduate
+    - details of staff in BAF for undergraduate
+    - staff details of undergraduate in BAF 
+    - list of underaduate staff of BAF
+    - list of underaduate staff for BAF
+    - who are the staff in undergraduate in BAF
+    - undegraduate BAF staff
+    
+- intent: undergrad_staff_bms
+  examples: |
+    - staff of BMS for undergraduate
+    - details of staff in BMS for undergraduate
+    - staff details of undergraduate in BMS 
+    - list of underaduate staff of BMS
+    - list of underaduate staff for BMS
+    - who are the staff in undergraduate in BMS
+    - undegraduate BMS staff
+    
+- intent: undergrad_staff_bammc
+  examples: |
+    - staff of BAMMC for undergraduate
+    - details of staff in BAMMC for undergraduate
+    - staff details of undergraduate in BAMMC 
+    - list of underaduate staff of BAMMC
+    - list of underaduate staff for BAMMC
+    - who are the staff in undergraduate in BAMMC
+    - undegraduate BAMMC staff
+    
+- intent: undergrad_staff_bcom_hons
+  examples: |
+    - staff of B.Com (Hons.) for undergraduate
+    - details of staff in B.Com (Hons.) for undergraduate
+    - staff details of undergraduate in B.Com (Hons.) 
+    - list of underaduate staff of B.Com (Hons.)
+    - list of underaduate staff for B.Com (Hons.)
+    - who are the staff in undergraduate in B.Com (Hons.)
+    - undegraduate B.Com (Hons.) staff
+    - staff of Bcom (Hons.) for undergraduate
+    - details of staff in Bcom (Hons.) for undergraduate
+    - staff details of undergraduate in Bcom (Hons.) 
+    - list of underaduate staff of Bcom (Hons.)
+    - list of underaduate staff for Bcom (Hons.)
+    - who are the staff in undergraduate in Bcom (Hons.)
+    - undegraduate Bcom (Hons.) staff
+    - staff of (Hons.) in B.Com  for undergraduate
+    - details of staff in (Hons.) in B.Com  for undergraduate
+    - staff details of undergraduate in (Hons.) in B.Com  
+    - list of underaduate staff of (Hons.) in B.Com 
+    - list of underaduate staff for (Hons.) in B.Com 
+    - who are the staff in undergraduate in (Hons.) in B.Com 
+    - undegraduate (Hons.) in B.Com  staff
+    - staff of (Hons.) in Bcom for undergraduate
+    - details of staff in (Hons.) in Bcom for undergraduate
+    - staff details of undergraduate in (Hons.) in Bcom 
+    - list of underaduate staff of (Hons.) in Bcom
+    - list of underaduate staff for (Hons.) in Bcom
+    - who are the staff in undergraduate in (Hons.) in Bcom
+    - undegraduate (Hons.) in Bcom staff 
+    - staff of Hons. in B.Com for undergraduate
+    - details of staff in Hons. in B.Com for undergraduate
+    - staff details of undergraduate in Hons. in B.Com 
+    - list of underaduate staff of Hons. in B.Com
+    - list of underaduate staff for Hons. in B.Com
+    - who are the staff in undergraduate in Hons. in B.Com
+    - undegraduate Hons. in B.Com staff
+    - staff of (Hons.) in B.Com for undergraduate
+    - details of staff in (Hons.) in B.Com for undergraduate
+    - staff details of undergraduate in (Hons.) in B.Com 
+    - list of underaduate staff of (Hons.) in B.Com
+    - list of underaduate staff for (Hons.) in B.Com
+    - who are the staff in undergraduate in (Hons.) in B.Com
+    - undegraduate (Hons.) in B.Com staff
+    - staff of Hons. in B.Com for undergraduate
+    - details of staff in Hons. in B.Com for undergraduate
+    - staff details of undergraduate in Hons. in B.Com 
+    - list of underaduate staff of Hons. in B.Com
+    - list of underaduate staff for Hons. in B.Com
+    - who are the staff in undergraduate in Hons. in B.Com
+    - undegraduate Hons. in B.Com staff
+      
+- intent: undergrad_staff_bbi
+  examples: |
+    - staff of BBI for undergraduate
+    - details of staff in BBI for undergraduate
+    - staff details of undergraduate in BBI 
+    - list of underaduate staff of BBI
+    - list of underaduate staff for BBI
+    - who are the staff in undergraduate in BBI
+    - undegraduate BBI staff
+       
+- intent: undergrad_staff_bfm
+  examples: | 
+    - staff of bfm for undergraduate
+    - details of staff in bfm for undergraduate
+    - staff details of undergraduate in bfm 
+    - list of underaduate staff of bfm
+    - list of underaduate staff for bfm
+    - who are the staff in undergraduate in bfm
+    - undegraduate bfm staff
+        
+- intent: undergrad_staff_ftnmp
+  examples: |
+    - staff of ftnmp for undergraduate
+    - details of staff in ftnmp for undergraduate
+    - staff details of undergraduate in ftnmp 
+    - list of underaduate staff of ftnmp
+    - list of underaduate staff for ftnmp
+    - who are the staff in undergraduate in ftnmp
+    - undegraduate ftnmp staff
+        
+- intent: undergrad_staff_ma_media
+  examples: |
+    - staff of ma in entertainment for undergraduate
+    - details of staff in ma in entertainment for undergraduate
+    - staff details of undergraduate in ma in entertainment 
+    - list of underaduate staff of ma in entertainment
+    - list of underaduate staff for ma in entertainment
+    - who are the staff in undergraduate in ma in entertainment
+    - undegraduate ma in entertainment staff
+    - staff of ma-entertainment for undergraduate
+    - details of staff in ma-entertainment for undergraduate
+    - staff details of undergraduate in ma-entertainment 
+    - list of underaduate staff of ma-entertainment
+    - list of underaduate staff for ma-entertainment
+    - who are the staff in undergraduate in ma-entertainment
+    - undegraduate ma-entertainment staff
+    - staff of ma media & advertising for undergraduate
+    - details of staff in ma media & advertising for undergraduate
+    - staff details of undergraduate in ma media & advertising 
+    - list of underaduate staff of ma media & advertising
+    - list of underaduate staff for ma media & advertising
+    - who are the staff in undergraduate in ma media & advertising
+    - undegraduate ma media & advertising staff
+    - staff of ma-media & advertising for undergraduate
+    - details of staff in ma-media & advertising for undergraduate
+    - staff details of undergraduate in ma-media & advertising 
+    - list of underaduate staff of ma-media & advertising
+    - list of underaduate staff for ma-media & advertising
+    - who are the staff in undergraduate in ma-media & advertising
+    - undegraduate ma-media & advertising staff
+    - staff of ma-entertainment, media & advertising for undergraduate
+    - details of staff in ma-entertainment, media & advertising for undergraduate
+    - staff details of undergraduate in ma-entertainment, media & advertising 
+    - list of underaduate staff of ma-entertainment, media & advertising
+    - list of underaduate staff for ma-entertainment, media & advertising
+    - who are the staff in undergraduate in ma-entertainment, media & advertising
+    - undegraduate ma-entertainment, media & advertising staff
+    - staff of ma entertainment, media & advertising for undergraduate
+    - details of staff in ma entertainment, media & advertising for undergraduate
+    - staff details of undergraduate in ma entertainment, media & advertising 
+    - list of underaduate staff of ma entertainment, media & advertising
+    - list of underaduate staff for ma entertainment, media & advertising
+    - who are the staff in undergraduate in ma entertainment, media & advertising
+    - undegraduate ma entertainment, media & advertising staff
+        
+- intent: undergrad_staff_mcom_ecom
+  examples: |
+    - staff of M.Com (E-commerce) for undergraduate
+    - details of staff in M.Com (E-commerce) for undergraduate
+    - staff details of undergraduate in M.Com (E-commerce) 
+    - list of underaduate staff of M.Com (E-commerce)
+    - list of underaduate staff for M.Com (E-commerce)
+    - who are the staff in undergraduate in M.Com (E-commerce)
+    - undegraduate M.Com (E-commerce) staff
+    - staff of M.Com in E-commerce for undergraduate
+    - details of staff in M.Com in E-commerce for undergraduate
+    - staff details of undergraduate in M.Com in E-commerce 
+    - list of underaduate staff of M.Com in E-commerce
+    - list of underaduate staff for M.Com in E-commerce
+    - who are the staff in undergraduate in M.Com in E-commerce
+    - undegraduate M.Com in E-commerce staff 
+    - staff of E-commerce for undergraduate
+    - details of staff in E-commerce for undergraduate
+    - staff details of undergraduate in E-commerce 
+    - list of underaduate staff of E-commerce
+    - list of underaduate staff for E-commerce
+    - who are the staff in undergraduate in E-commerce
+    - undegraduate E-commerce staff
+        
+- intent: undergrad_staff_mcom_adv_acc
+  examples: |
+    - staff of M.Com (Advanced Accountancy) for undergraduate
+    - details of staff in M.Com (Advanced Accountancy) for undergraduate
+    - staff details of undergraduate in M.Com (Advanced Accountancy) 
+    - list of underaduate staff of M.Com (Advanced Accountancy)
+    - list of underaduate staff for M.Com (Advanced Accountancy)
+    - who are the staff in undergraduate in M.Com (Advanced Accountancy)
+    - undegraduate M.Com (Advanced Accountancy) staff
+    - staff of M.Com in Advanced Accountancy for undergraduate
+    - details of staff in M.Com in Advanced Accountancy for undergraduate
+    - staff details of undergraduate in M.Com in Advanced Accountancy 
+    - list of underaduate staff of M.Com in Advanced Accountancy
+    - list of underaduate staff for M.Com in Advanced Accountancy
+    - who are the staff in undergraduate in M.Com in Advanced Accountancy
+    - undegraduate M.Com in Advanced Accountancy staff 
+    - staff of Advanced Accountancy for undergraduate
+    - details of staff in Advanced Accountancy for undergraduate
+    - staff details of undergraduate in Advanced Accountancy 
+    - list of underaduate staff of Advanced Accountancy
+    - list of underaduate staff for Advanced Accountancy
+    - who are the staff in undergraduate in Advanced Accountancy
+    - undegraduate Advanced Accountancy staff
+
+    
+
+    

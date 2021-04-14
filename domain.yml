@@ -14,8 +14,35 @@ intents:
   - feedback_page
   - international_page
   - about_page
+  - contact_page
   - send_vision
   - send_mission
+  - undergrad_staff_science
+  - undergrad_staff_botany
+  - undergrad_staff_chemistry
+  - undergrad_staff_Physics
+  - undergrad_staff_bio_tech
+  - undergrad_staff_zoology
+  - undergrad_staff_cs
+  - undergrad_staff_it
+  - undergrad_staff_maths
+  - undergrad_staff_stats
+  - undergrad_staff_commerce
+  - undergrad_staff_business_com
+  - undergrad_staff_law
+  - undergrad_staff_env_stds
+  - undergrad_staff_eco
+  - undergrad_staff_accounts
+  - undergrad_staff_baf
+  - undergrad_staff_bms
+  - undergrad_staff_bammc
+  - undergrad_staff_bcom_hons
+  - undergrad_staff_bbi
+  - undergrad_staff_bfm
+  - undergrad_staff_ftnmp
+  - undergrad_staff_ma_media
+  - undergrad_staff_mcom_ecom
+  - undergrad_staff_mcom_adv_acc
 responses:
   utter_greet:
   - text: "Hey! How are you?"
@@ -37,25 +64,25 @@ responses:
   - text: "I am a bot, made for Thakur College of Science and Commerce (TCSC)."
 
   utter_homepage:
-  - text: "<a href='https://www.tcsc.edu.in'>https://www.tcsc.edu.in</a>"
+  - text: "<a href='https://www.tcsc.edu.in' target='_blank'>https://www.tcsc.edu.in</a>"
 
   utter_attendance_page:
-  - text: "<a href='http://tcsc.org.in/attendanceChk/index.html'>http://tcsc.org.in/attendanceChk/index.html</a>"
+  - text: "<a href='http://tcsc.org.in/attendanceChk/index.html'  target='_blank'>http://tcsc.org.in/attendanceChk/index.html</a>"
 
   utter_journals_page:
-  - text: "<a href='https://www.tcsc.edu.in/page/journals-magazines'>https://www.tcsc.edu.in/page/journals-magazines</a>"
+  - text: "<a href='https://www.tcsc.edu.in/page/journals-magazines'  target='_blank'>https://www.tcsc.edu.in/page/journals-magazines</a>"
 
   utter_feedback_page:
-  - text: "<a href='https://www.tcsc.edu.in/manual/submit_teacher_feedback'>https://www.tcsc.edu.in/manual/submit_teacher_feedback</a>"
+  - text: "<a href='https://www.tcsc.edu.in/manual/submit_teacher_feedback'  target='_blank'>https://www.tcsc.edu.in/manual/submit_teacher_feedback</a>"
 
   utter_international_page:
-  - text: "We are affiliated with <br> <ul> <li> University of the Fraser Valley, Canada </li><li> University of Canberra, Australia </li><li> Royal Roads University, Canada </li> </ul> <br>For more info you can visit here: <a href = 'https://www.tcsc.edu.in/page/international'>https://www.tcsc.edu.in/page/international</a>"
+  - text: "We are affiliated with <br> <ul> <li> University of the Fraser Valley, Canada </li><li> University of Canberra, Australia </li><li> Royal Roads University, Canada </li> </ul> <br>For more info you can visit here: <a href = 'https://www.tcsc.edu.in/page/international'  target='_blank'>https://www.tcsc.edu.in/page/international</a>"
 
   utter_about_page:
-  - text: "Please visit <a herf='https://www.tcsc.edu.in/page/about-us-about-tcsc' target = '__blank'>https://www.tcsc.edu.in/page/about-us-about-tcsc</a>"
+  - text: "Please visit <a herf='https://www.tcsc.edu.in/page/about-us-about-tcsc' target = '_blank'>https://www.tcsc.edu.in/page/about-us-about-tcsc</a>"
 
   utter_contact_page:
-  - text: "Please visit <a herf='https://www.tcsc.edu.in/manual/contact' target = '__blank'>https://www.tcsc.edu.in/manual/contact</a><br><a href='mailto:tcsc@tcsc.edu.in'>tcsc@tcsc.edu.in</a> or you can also email on <a href='mailto:ctchakraborty@tcsc.edu.in'>ctchakraborty@tcsc.edu.in</a><br>Tel: <a href='tel:02228870627'>022 2887 0627</a>, <a href='tel:02228462565'>022 2846 2565</a><br> Fax: <a href='fax:28868822'>2886 8822</a><br>Our college address is:<br>Thakur College of Science & Commerce,<br>Thakur Village,Kandivali (E),<br>Mumbai - 400 101<br>our office timings are 10am - 5pm"
+  - text: "Please visit <a herf='https://www.tcsc.edu.in/manual/contact' target = '_blank'>https://www.tcsc.edu.in/manual/contact</a><br><a href='mailto:tcsc@tcsc.edu.in'>tcsc@tcsc.edu.in</a> or you can also email on <a href='mailto:ctchakraborty@tcsc.edu.in'>ctchakraborty@tcsc.edu.in</a><br>Tel: <a href='tel:02228870627'>022 2887 0627</a>, <a href='tel:02228462565'>022 2846 2565</a><br> Fax: <a href='fax:28868822'>2886 8822</a><br>Our college address is:<br>Thakur College of Science & Commerce,<br>Thakur Village,Kandivali (E),<br>Mumbai - 400 101<br>our office timings are 10am - 5pm"
 
   utter_vission:
   - text: "To be a leading educational institution by providing world class education in diverse emerging disciplines to produce conscientious and learned professionals who significantly contribute to socio-economic development of the nation."
@@ -63,6 +90,11 @@ responses:
   utter_mission:
   - text: "We, at the Thakur College of Science and Commerce will strive to achieve excellence through quality education by providing the right academic ambience for overall development of all the students so they progress upwards."
 
+  utter_science_staff:
+  - text: "Sure you can find all the details here<a herf='https://www.tcsc.edu.in/page/staff-undergraduate-science-staff' target = '_blank'>https://www.tcsc.edu.in/page/staff-undergraduate-science-staff</a>"
+
+  utter_commerce_staff:
+  - text: "Sure you can find all the details here<a herf='https://www.tcsc.edu.in/page/staff-undergraduate-commerce-staff' target = '_blank'>https://www.tcsc.edu.in/page/staff-undergraduate-commerce-staff</a>"
 
   # utter_default:
   #   - text: "I'm sorry couldn't understand you, would you please rephrase it ?"
