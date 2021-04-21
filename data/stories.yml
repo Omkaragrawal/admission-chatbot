@@ -204,3 +204,87 @@ stories:
     - intent: undergrad_staff_mcom_adv_acc
     - action: utter_commerce_staff
 
+- story: send to bcom -> investment management
+  steps:
+    - intent: undergrad_bcom_investment_mgm
+    - action: utter_bcom_investment_mgm
+
+- story: send to bcom -> financial marketing
+  steps:
+    - intent: undergrad_bcom_finan_mrkt
+    - action: utter_bcom_finan_mrkt
+
+- story: send to bcom -> banking insurance
+  steps:
+    - intent: undergrad_bcom_banking_insurance
+    - action: utter_bcom_banking_insurance
+
+- story: send to bmm
+  steps:
+    - intent: undergrad_bmm
+    - action: utter_bmm
+
+- story: send to ba -> film, TV and new media production
+  steps:
+    - intent: undergrad_ba_film_tv_media_prod
+    - action: utter_ba_film_tv_media_prod
+
+- story: send to baf
+  steps:
+    - intent: undergrad_baf
+    - action: utter_baf
+
+- story: send to bms
+  steps:
+    - intent: undergrad_bms
+    - action: utter_bms
+
+- story: send to bcom
+  steps:
+    - intent: undergrad_bcom
+    - action: utter_bcom
+
+- story: send to bsc -> aviation
+  steps:
+    - intent: undergrad_bsc_aviation
+    - action: utter_bsc_aviation
+
+- story: send to bsc -> bio tech
+  steps:
+    - intent: undergrad_bsc_bio_tech
+    - action: utter_bsc_bio_tech
+
+- story: send to bsc -> cs
+  steps:
+    - intent: undergrad_bsc_cs
+    - action: utter_bsc_cs
+
+- story: send to bsc -> it
+  steps:
+    - intent: undergrad_bsc_it
+    - action: utter_bsc_it
+
+- story: send to bsc
+  steps:
+    - intent: undergrad_bsc
+    - action: utter_bsc
+
+- story: send to placement records
+  steps:
+    - intent: placement_records
+    - action: utter_placement_records
+
+- story: respond with documents
+  steps:
+    - intent: send_documents
+    - action: utter_send_documents
+
+- story: respond with placement companies
+  steps:
+    - intent: send_placement_companies
+    - action: utter_send_placement_companies
+
+- story: respond with duration of course
+  steps:
+    - intent: send_duration
+    - action: utter_send_duration

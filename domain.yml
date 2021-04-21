@@ -43,6 +43,24 @@ intents:
   - undergrad_staff_ma_media
   - undergrad_staff_mcom_ecom
   - undergrad_staff_mcom_adv_acc
+  - undergrad_bcom_investment_mgm
+  - undergrad_bcom_finan_mrkt
+  - undergrad_bcom_banking_insurance
+  - undergrad_bmm
+  - undergrad_ba_film_tv_media_prod
+  - undergrad_baf
+  - undergrad_bms
+  - undergrad_bcom
+  - undergrad_bsc_aviation
+  - undergrad_bsc_bio_tech
+  - undergrad_bsc_cs
+  - undergrad_bsc_it
+  - undergrad_bsc
+  - placement_records
+  - send_documents
+  - send_placement_companies
+  - send_duration
+
 responses:
   utter_greet:
   - text: "Hey! How are you?"
@@ -95,6 +113,57 @@ responses:
 
   utter_commerce_staff:
   - text: "Sure you can find all the details here<a herf='https://www.tcsc.edu.in/page/staff-undergraduate-commerce-staff' target = '_blank'>https://www.tcsc.edu.in/page/staff-undergraduate-commerce-staff</a>"
+
+  utter_bcom_investment_mgm:
+  - text: "Sure you can find all the details here<a href='https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-com-investment-management-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-com-investment-management-academics</a>"
+
+  utter_bcom_finan_mrkt:
+  - text: "Sure you can find all the details here<a href='https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-com-financial-markets-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-com-financial-markets-academics</a>"
+
+  utter_bcom_banking_insurance:
+  - text: "Sure you can find all the details here<a href='https://www.tcsc.edu.in/page/academics-undergraduate-programs-academics-b-com-banking-insurance-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-programs-academics-b-com-banking-insurance-academics</a>"
+
+  utter_bmm:
+  - text: "Sure you can find all the details here<a href='https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-m-m-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-m-m-academics</a>"
+
+  utter_ba_film_tv_media_prod:
+  - text: "Sure you can find all the details here<a href='https://www.tcsc.edu.in/page/academics-undergraduate-programs-academics-b-a-film-tv-new-media-production-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-programs-academics-b-a-film-tv-new-media-production-academics</a>"
+
+  utter_baf:
+  - text: "Sure you can find all the details here<a href='https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-a-f-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-a-f-academics</a>"
+
+  utter_bms:
+  - text: "Sure you can find all the details here<a href='https://www.tcsc.edu.in/page/academics-undergraduate-programs-academics-b-m-s-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-programs-academics-b-m-s-academics</a>"
+
+  utter_bcom:
+  - text: "Sure you can find all the details here<a href='https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-com-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-com-academics</a>"
+
+  utter_bsc_aviation:
+  - text: "Sure you can find all the details here<a href='https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-sc-aviation-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-sc-aviation-academics</a>"
+
+  utter_bsc_bio_tech:
+  - text: "Sure you can find all the details here<a href='https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-sc-bio-technology-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-sc-bio-technology-academics</a>"
+
+  utter_bsc_cs:
+  - text: "Sure you can find all the details here<a href='https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-sc-c-s-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-sc-c-s-academics</a>"
+
+  utter_bsc_it:
+  - text: "Sure you can find all the details here<a href='https://www.tcsc.edu.in/page/academics-undergraduate-programs-academics-b-sc-i-t-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-programs-academics-b-sc-i-t-academics</a>"
+
+  utter_bsc:
+  - text: "Sure you can find all the details here<a href='https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-sc-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-sc-academics</a>"
+
+  utter_placement_records:
+  - text: "Sure you can find all the details here<a href='https://sites.google.com/site/tpctcsc' target='_blank'>https://sites.google.com/site/tpctcsc</a>"
+
+  utter_send_documents:
+  - text: "Documents to be submitted along with Admission Form<br> <ul> <li>Original to show, and photocopy</li><br> <li>Statement of Marks 2 attested copies</li><br> <li>School Leaving Certificate 1 attested copy</li><br> <li>Caste Certificate, if applicable – 1 attested copy</li></ul>"
+  
+  utter_send_placement_companies:
+  - text: "List is as follows<br> <ul> <li>TCS </li><br> <li>Infosys</li><br> <li>JP Morgan</li><br> <li>LTI</li><br> <li>Accenture</li><br> <li>ICICI Prudential</li><br> <li>Tech Mahindra</li><br> <li>Wipro</li></ul>"
+
+  utter_send_duration:
+  - text: "We have 3 Years i.e 6 semester."
 
   # utter_default:
   #   - text: "I'm sorry couldn't understand you, would you please rephrase it ?"

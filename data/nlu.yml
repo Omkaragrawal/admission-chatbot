@@ -643,3 +643,513 @@ nlu:
     - list of underaduate staff for Hons. in B.Com
     - who are the staff in undergraduate in Hons. in B.Com
     - undegraduate Hons. in B.Com staff
+
+- intent: undergrad_bcom_finan_mrkt
+  examples: |
+    - bcom financial marketing
+    - eligibility for bcom financial marketing
+    - course details for bcom financial marketing
+    - scheme evaluation for bcom financial marketing
+    - subjects in bcom financial marketing
+    - details of course bcom financial marketing
+    - details of bcom financial marketing
+    - more information on bcom financial marketing
+    - information on bcom financial marketing
+    - link for bcom financial marketing
+    - page of bcom financial marketing
+
+- intent: undergrad_bcom_banking_insurance
+  examples: |
+    - bcom banking and insurance
+    - eligibility for bcom banking and insurance
+    - course details for bcom banking and insurance
+    - scheme evaluation for bcom banking and insurance
+    - subjects in bcom banking and insurance
+    - details of course bcom banking and insurance
+    - details of bcom banking and insurance
+    - more information on bcom banking and insurance
+    - information on bcom banking and insurance
+    - link for bcom banking and insurance
+    - page of bcom banking and insurance
+    - bcom banking & insurance
+    - eligibility for bcom banking & insurance
+    - course details for bcom banking & insurance
+    - scheme evaluation for bcom banking & insurance
+    - subjects in bcom banking & insurance
+    - details of course bcom banking & insurance
+    - details of bcom banking & insurance
+    - more information on bcom banking & insurance
+    - information on bcom banking & insurance
+    - link for bcom banking & insurance
+    - page of bcom banking & insurance
+
+- intent: undergrad_bmm
+  examples: |
+    - b.m.m
+    - eligibility for b.m.m
+    - course details for b.m.m
+    - scheme evaluation for b.m.m
+    - subjects in b.m.m
+    - details of course b.m.m
+    - details of b.m.m
+    - more information on b.m.m
+    - information on b.m.m
+    - link for b.m.m
+    - page of b.m.m
+    - bmm
+    - eligibility for bmm
+    - course details for bmm
+    - scheme evaluation for bmm
+    - subjects in bmm
+    - details of course bmm
+    - details of bmm
+    - more information on bmm
+    - information on bmm
+    - link for bmm
+    - page of bmm
+
+- intent: undergrad_ba_film_tv_media_prod
+  examples: |
+    - B.A. Film TV & New Media Production
+    - eligibility for B.A. Film TV & New Media Production
+    - course details for B.A. Film TV & New Media Production
+    - scheme evaluation for B.A. Film TV & New Media Production
+    - subjects in B.A. Film TV & New Media Production
+    - details of course B.A. Film TV & New Media Production
+    - details of B.A. Film TV & New Media Production
+    - more information on B.A. Film TV & New Media Production
+    - information on B.A. Film TV & New Media Production
+    - link for B.A. Film TV & New Media Production
+    - page of B.A. Film TV & New Media Production
+    - B.A. Film TV and New Media Production
+    - eligibility for B.A. Film TV and New Media Production
+    - course details for B.A. Film TV and New Media Production
+    - scheme evaluation for B.A. Film TV and New Media Production
+    - subjects in B.A. Film TV and New Media Production
+    - details of course B.A. Film TV and New Media Production
+    - details of B.A. Film TV and New Media Production
+    - more information on B.A. Film TV and New Media Production
+    - information on B.A. Film TV and New Media Production
+    - link for B.A. Film TV and New Media Production
+    - page of B.A. Film TV and New Media Production
+    - B.A. in Film TV & New Media Production
+    - eligibility for B.A. in Film TV & New Media Production
+    - course details for B.A. in Film TV & New Media Production
+    - scheme evaluation for B.A. in Film TV & New Media Production
+    - subjects in B.A. in Film TV & New Media Production
+    - details of course B.A. in Film TV & New Media Production
+    - details of B.A. in Film TV & New Media Production
+    - more information on B.A. in Film TV & New Media Production
+    - information on B.A. in Film TV & New Media Production
+    - link for B.A. in Film TV & New Media Production
+    - page of B.A. in Film TV & New Media Production
+    - B.A. in Film TV and New Media Production
+    - eligibility for B.A. in Film TV and New Media Production
+    - course details for B.A. in Film TV and New Media Production
+    - scheme evaluation for B.A. in Film TV and New Media Production
+    - subjects in B.A. in Film TV and New Media Production
+    - details of course B.A. in Film TV and New Media Production
+    - details of B.A. in Film TV and New Media Production
+    - more information on B.A. in Film TV and New Media Production
+    - information on B.A. in Film TV and New Media Production
+    - link for B.A. in Film TV and New Media Production
+    - page of B.A. in Film TV and New Media Production
+
+- intent: undergrad_baf
+  examples: |
+    - b.a.f
+    - eligibility for b.a.f
+    - course details for b.a.f
+    - scheme evaluation for b.a.f
+    - subjects in b.a.f
+    - details of course b.a.f
+    - details of b.a.f
+    - more information on b.a.f
+    - information on b.a.f
+    - link for b.a.f
+    - page of b.a.f
+    - baf
+    - eligibility for baf
+    - course details for baf
+    - scheme evaluation for baf
+    - subjects in baf
+    - details of course baf
+    - details of baf
+    - more information on baf
+    - information on baf
+    - link for baf
+    - page of baf
+    - b a f
+    - eligibility for b a f
+    - course details for b a f
+    - scheme evaluation for b a f
+    - subjects in b a f
+    - details of course b a f
+    - details of b a f
+    - more information on b a f
+    - information on b a f
+    - link for b a f
+    - page of b a f
+
+- intent: undergrad_bms
+  examples: |
+    - B.M.S
+    - eligibility for B.M.S
+    - course details for B.M.S
+    - scheme evaluation for B.M.S
+    - subjects in B.M.S
+    - details of course B.M.S
+    - details of B.M.S
+    - more information on B.M.S
+    - information on B.M.S
+    - link for B.M.S
+    - page of B.M.S
+    - bms
+    - eligibility for bms
+    - course details for bms
+    - scheme evaluation for bms
+    - subjects in bms
+    - details of course bms
+    - details of bms
+    - more information on bms
+    - information on bms
+    - link for bms
+    - page of bms
+    - b m s
+    - eligibility for b m s
+    - course details for b m s
+    - scheme evaluation for b m s
+    - subjects in b m s
+    - details of course b m s
+    - details of b m s
+    - more information on b m s
+    - information on b m s
+    - link for b m s
+    - page of b m s
+
+- intent: undergrad_bcom
+  examples: |
+    - B.Com
+    - eligibility for B.Com
+    - course details for B.Com
+    - scheme evaluation for B.Com
+    - subjects in B.Com
+    - details of course B.Com
+    - details of B.Com
+    - more information on B.Com
+    - information on B.Com
+    - link for B.Com
+    - page of B.Com
+    - bcom
+    - eligibility for bcom
+    - course details for bcom
+    - scheme evaluation for bcom
+    - subjects in bcom
+    - details of course bcom
+    - details of bcom
+    - more information on bcom
+    - information on bcom
+    - link for bcom
+    - page of bcom
+    - b com
+    - eligibility for b com
+    - course details for b com
+    - scheme evaluation for b com
+    - subjects in b com
+    - details of course b com
+    - details of b com
+    - more information on b com
+    - information on b com
+    - link for b com
+    - page of b com
+
+- intent: undergrad_bsc_aviation
+  examples: |
+    - B. Sc. Aviation
+    - eligibility for B. Sc. Aviation
+    - course details for B. Sc. Aviation
+    - scheme evaluation for B. Sc. Aviation
+    - subjects in B. Sc. Aviation
+    - details of course B. Sc. Aviation
+    - details of B. Sc. Aviation
+    - more information on B. Sc. Aviation
+    - information on B. Sc. Aviation
+    - link for B. Sc. Aviation
+    - page of B. Sc. Aviation
+    - bsc Aviation
+    - eligibility for bsc Aviation
+    - course details for bsc Aviation
+    - scheme evaluation for bsc Aviation
+    - subjects in bsc Aviation
+    - details of course bsc Aviation
+    - details of bsc Aviation
+    - more information on bsc Aviation
+    - information on bsc Aviation
+    - link for bsc Aviation
+    - page of bsc Aviation
+    - bsc in Aviation
+    - eligibility for bsc in Aviation
+    - course details for bsc in Aviation
+    - scheme evaluation for bsc in Aviation
+    - subjects in bsc in Aviation
+    - details of course bsc in Aviation
+    - details of bsc in Aviation
+    - more information on bsc in Aviation
+    - information on bsc in Aviation
+    - link for bsc in Aviation
+    - page of bsc in Aviation
+
+- intent: undergrad_bsc_bio_tech
+  examples: |
+    - B. Sc. bio technology
+    - eligibility for B. Sc. bio technology
+    - course details for B. Sc. bio technology
+    - scheme evaluation for B. Sc. bio technology
+    - subjects in B. Sc. bio technology
+    - details of course B. Sc. bio technology
+    - details of B. Sc. bio technology
+    - more information on B. Sc. bio technology
+    - information on B. Sc. bio technology
+    - link for B. Sc. bio technology
+    - page of B. Sc. bio technology
+    - bsc bio technology
+    - eligibility for bsc bio technology
+    - course details for bsc bio technology
+    - scheme evaluation for bsc bio technology
+    - subjects in bsc bio technology
+    - details of course bsc bio technology
+    - details of bsc bio technology
+    - more information on bsc bio technology
+    - information on bsc bio technology
+    - link for bsc bio technology
+    - page of bsc bio technology
+    - bsc in bio technology
+    - eligibility for bsc in bio technology
+    - course details for bsc in bio technology
+    - scheme evaluation for bsc in bio technology
+    - subjects in bsc in bio technology
+    - details of course bsc in bio technology
+    - details of bsc in bio technology
+    - more information on bsc in bio technology
+    - information on bsc in bio technology
+    - link for bsc in bio technology
+    - page of bsc in bio technology
+
+- intent: undergrad_bsc_cs
+  examples: |
+    - B. Sc. cs
+    - eligibility for B. Sc. cs
+    - course details for B. Sc. cs
+    - scheme evaluation for B. Sc. cs
+    - subjects in B. Sc. cs
+    - details of course B. Sc. cs
+    - details of B. Sc. cs
+    - more information on B. Sc. cs
+    - information on B. Sc. cs
+    - link for B. Sc. cs
+    - page of B. Sc. cs
+    - bsc cs
+    - eligibility for bsc cs
+    - course details for bsc cs
+    - scheme evaluation for bsc cs
+    - subjects in bsc cs
+    - details of course bsc cs
+    - details of bsc cs
+    - more information on bsc cs
+    - information on bsc cs
+    - link for bsc cs
+    - page of bsc cs
+    - bsc in cs
+    - eligibility for bsc in cs
+    - course details for bsc in cs
+    - scheme evaluation for bsc in cs
+    - subjects in bsc in cs
+    - details of course bsc in cs
+    - details of bsc in cs
+    - more information on bsc in cs
+    - information on bsc in cs
+    - link for bsc in cs
+    - page of bsc in cs
+    - B. Sc. computer science
+    - eligibility for B. Sc. computer science
+    - course details for B. Sc. computer science
+    - scheme evaluation for B. Sc. computer science
+    - subjects in B. Sc. computer science
+    - details of course B. Sc. computer science
+    - details of B. Sc. computer science
+    - more information on B. Sc. computer science
+    - information on B. Sc. computer science
+    - link for B. Sc. computer science
+    - page of B. Sc. computer science
+    - bsc computer science
+    - eligibility for bsc computer science
+    - course details for bsc computer science
+    - scheme evaluation for bsc computer science
+    - subjects in bsc computer science
+    - details of course bsc computer science
+    - details of bsc computer science
+    - more information on bsc computer science
+    - information on bsc computer science
+    - link for bsc computer science
+    - page of bsc computer science
+    - bsc in computer science
+    - eligibility for bsc in computer science
+    - course details for bsc in computer science
+    - scheme evaluation for bsc in computer science
+    - subjects in bsc in computer science
+    - details of course bsc in computer science
+    - details of bsc in computer science
+    - more information on bsc in computer science
+    - information on bsc in computer science
+    - link for bsc in computer science
+    - page of bsc in computer science
+
+- intent: undergrad_bsc_it
+  examples: |
+    - B. Sc. it
+    - eligibility for B. Sc. it
+    - course details for B. Sc. it
+    - scheme evaluation for B. Sc. it
+    - subjects in B. Sc. it
+    - details of course B. Sc. it
+    - details of B. Sc. it
+    - more information on B. Sc. it
+    - information on B. Sc. it
+    - link for B. Sc. it
+    - page of B. Sc. it
+    - bsc it
+    - eligibility for bsc it
+    - course details for bsc it
+    - scheme evaluation for bsc it
+    - subjects in bsc it
+    - details of course bsc it
+    - details of bsc it
+    - more information on bsc it
+    - information on bsc it
+    - link for bsc it
+    - page of bsc it
+    - bsc in it
+    - eligibility for bsc in it
+    - course details for bsc in it
+    - scheme evaluation for bsc in it
+    - subjects in bsc in it
+    - details of course bsc in it
+    - details of bsc in it
+    - more information on bsc in it
+    - information on bsc in it
+    - link for bsc in it
+    - page of bsc in it
+    - B. Sc. information technology
+    - eligibility for B. Sc. information technology
+    - course details for B. Sc. information technology
+    - scheme evaluation for B. Sc. information technology
+    - subjects in B. Sc. information technology
+    - details of course B. Sc. information technology
+    - details of B. Sc. information technology
+    - more information on B. Sc. information technology
+    - information on B. Sc. information technology
+    - link for B. Sc. information technology
+    - page of B. Sc. information technology
+    - bsc information technology
+    - eligibility for bsc information technology
+    - course details for bsc information technology
+    - scheme evaluation for bsc information technology
+    - subjects in bsc information technology
+    - details of course bsc information technology
+    - details of bsc information technology
+    - more information on bsc information technology
+    - information on bsc information technology
+    - link for bsc information technology
+    - page of bsc information technology
+    - bsc in information technology
+    - eligibility for bsc in information technology
+    - course details for bsc in information technology
+    - scheme evaluation for bsc in information technology
+    - subjects in bsc in information technology
+    - details of course bsc in information technology
+    - details of bsc in information technology
+    - more information on bsc in information technology
+    - information on bsc in information technology
+    - link for bsc in information technology
+    - page of bsc in information technology
+
+- intent: undergrad_bsc
+  examples: |
+    - B. Sc.
+    - eligibility for B. Sc.
+    - course details for B. Sc.
+    - scheme evaluation for B. Sc.
+    - subjects in B. Sc.
+    - details of course B. Sc.
+    - details of B. Sc.
+    - more information on B. Sc.
+    - information on B. Sc.
+    - link for B. Sc.
+    - page of B. Sc.
+    - bsc
+    - eligibility for bsc
+    - course details for bsc
+    - scheme evaluation for bsc
+    - subjects in bsc
+    - details of course bsc
+    - details of bsc
+    - more information on bsc
+    - information on bsc
+    - link for bsc
+    - page of bsc
+
+- intent: placement_records
+  examples: |
+    - placement records
+    - placement history
+    - tcsc placement history
+    - tcsc placement records
+    - placement records of tcsc
+    - placement history of tcsc
+    - placement records
+    - placement history
+    - college placement history
+    - college placement records
+    - placement records of college
+    - placement history of college
+    - placement records of your college
+    - placement history of your college
+
+- intent: send_documents
+  examples: |
+    - what are the documents required for admission?
+    - documents required?
+    - documents required fo admission precess?
+    - admission process documents
+    - documents for admission
+    - admission documents
+
+- intent: send_placement_companies
+  examples: |
+    - list placement companies
+    - placement companies
+    - which companies students get placed
+    - companies for student placement
+    - which companies do you place in?
+
+- intent: send_duration
+  examples: |
+    - duration of course
+    - course duration
+    - course of each duration
+    - duration of each course
+    - duration
+
+- intent: undergrad_bcom_investment_mgmt
+  examples: |
+    - bcom investment management
+    - eligibility for bcom investment management
+    - course details for bcom investment management
+    - scheme evaluation for bcom investment management
+    - subjects bcom investment management
+    - details of course bcom investment management
+    - details of bcom investment management
+    - more information on bcom investment management
+    - information on bcom investment management
+    - link for bcom investment management
+    - page of bcom investment management
