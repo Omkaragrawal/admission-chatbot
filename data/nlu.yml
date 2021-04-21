@@ -468,89 +468,31 @@ nlu:
     - list of underaduate staff for BAMMC
     - who are the staff in undergraduate in BAMMC
     - undegraduate BAMMC staff
-    
-- intent: undergrad_staff_bcom_hons
+
+- intent: undergrad_staff_mcom_adv_acc
   examples: |
-    - staff of B.Com (Hons.) for undergraduate
-    - details of staff in B.Com (Hons.) for undergraduate
-    - staff details of undergraduate in B.Com (Hons.) 
-    - list of underaduate staff of B.Com (Hons.)
-    - list of underaduate staff for B.Com (Hons.)
-    - who are the staff in undergraduate in B.Com (Hons.)
-    - undegraduate B.Com (Hons.) staff
-    - staff of Bcom (Hons.) for undergraduate
-    - details of staff in Bcom (Hons.) for undergraduate
-    - staff details of undergraduate in Bcom (Hons.) 
-    - list of underaduate staff of Bcom (Hons.)
-    - list of underaduate staff for Bcom (Hons.)
-    - who are the staff in undergraduate in Bcom (Hons.)
-    - undegraduate Bcom (Hons.) staff
-    - staff of (Hons.) in B.Com  for undergraduate
-    - details of staff in (Hons.) in B.Com  for undergraduate
-    - staff details of undergraduate in (Hons.) in B.Com  
-    - list of underaduate staff of (Hons.) in B.Com 
-    - list of underaduate staff for (Hons.) in B.Com 
-    - who are the staff in undergraduate in (Hons.) in B.Com 
-    - undegraduate (Hons.) in B.Com  staff
-    - staff of (Hons.) in Bcom for undergraduate
-    - details of staff in (Hons.) in Bcom for undergraduate
-    - staff details of undergraduate in (Hons.) in Bcom 
-    - list of underaduate staff of (Hons.) in Bcom
-    - list of underaduate staff for (Hons.) in Bcom
-    - who are the staff in undergraduate in (Hons.) in Bcom
-    - undegraduate (Hons.) in Bcom staff 
-    - staff of Hons. in B.Com for undergraduate
-    - details of staff in Hons. in B.Com for undergraduate
-    - staff details of undergraduate in Hons. in B.Com 
-    - list of underaduate staff of Hons. in B.Com
-    - list of underaduate staff for Hons. in B.Com
-    - who are the staff in undergraduate in Hons. in B.Com
-    - undegraduate Hons. in B.Com staff
-    - staff of (Hons.) in B.Com for undergraduate
-    - details of staff in (Hons.) in B.Com for undergraduate
-    - staff details of undergraduate in (Hons.) in B.Com 
-    - list of underaduate staff of (Hons.) in B.Com
-    - list of underaduate staff for (Hons.) in B.Com
-    - who are the staff in undergraduate in (Hons.) in B.Com
-    - undegraduate (Hons.) in B.Com staff
-    - staff of Hons. in B.Com for undergraduate
-    - details of staff in Hons. in B.Com for undergraduate
-    - staff details of undergraduate in Hons. in B.Com 
-    - list of underaduate staff of Hons. in B.Com
-    - list of underaduate staff for Hons. in B.Com
-    - who are the staff in undergraduate in Hons. in B.Com
-    - undegraduate Hons. in B.Com staff
-      
-- intent: undergrad_staff_bbi
-  examples: |
-    - staff of BBI for undergraduate
-    - details of staff in BBI for undergraduate
-    - staff details of undergraduate in BBI 
-    - list of underaduate staff of BBI
-    - list of underaduate staff for BBI
-    - who are the staff in undergraduate in BBI
-    - undegraduate BBI staff
-       
-- intent: undergrad_staff_bfm
-  examples: | 
-    - staff of bfm for undergraduate
-    - details of staff in bfm for undergraduate
-    - staff details of undergraduate in bfm 
-    - list of underaduate staff of bfm
-    - list of underaduate staff for bfm
-    - who are the staff in undergraduate in bfm
-    - undegraduate bfm staff
-        
-- intent: undergrad_staff_ftnmp
-  examples: |
-    - staff of ftnmp for undergraduate
-    - details of staff in ftnmp for undergraduate
-    - staff details of undergraduate in ftnmp 
-    - list of underaduate staff of ftnmp
-    - list of underaduate staff for ftnmp
-    - who are the staff in undergraduate in ftnmp
-    - undegraduate ftnmp staff
-        
+    - staff of M.Com (Advanced Accountancy) for undergraduate
+    - details of staff in M.Com (Advanced Accountancy) for undergraduate
+    - staff details of undergraduate in M.Com (Advanced Accountancy) 
+    - list of underaduate staff of M.Com (Advanced Accountancy)
+    - list of underaduate staff for M.Com (Advanced Accountancy)
+    - who are the staff in undergraduate in M.Com (Advanced Accountancy)
+    - undegraduate M.Com (Advanced Accountancy) staff
+    - staff of M.Com in Advanced Accountancy for undergraduate
+    - details of staff in M.Com in Advanced Accountancy for undergraduate
+    - staff details of undergraduate in M.Com in Advanced Accountancy 
+    - list of underaduate staff of M.Com in Advanced Accountancy
+    - list of underaduate staff for M.Com in Advanced Accountancy
+    - who are the staff in undergraduate in M.Com in Advanced Accountancy
+    - undegraduate M.Com in Advanced Accountancy staff 
+    - staff of Advanced Accountancy for undergraduate
+    - details of staff in Advanced Accountancy for undergraduate
+    - staff details of undergraduate in Advanced Accountancy 
+    - list of underaduate staff of Advanced Accountancy
+    - list of underaduate staff for Advanced Accountancy
+    - who are the staff in undergraduate in Advanced Accountancy
+    - undegraduate Advanced Accountancy staff
+   
 - intent: undergrad_staff_ma_media
   examples: |
     - staff of ma in entertainment for undergraduate
@@ -595,7 +537,7 @@ nlu:
     - list of underaduate staff for ma entertainment, media & advertising
     - who are the staff in undergraduate in ma entertainment, media & advertising
     - undegraduate ma entertainment, media & advertising staff
-        
+ 
 - intent: undergrad_staff_mcom_ecom
   examples: |
     - staff of M.Com (E-commerce) for undergraduate
@@ -619,31 +561,85 @@ nlu:
     - list of underaduate staff for E-commerce
     - who are the staff in undergraduate in E-commerce
     - undegraduate E-commerce staff
-        
-- intent: undergrad_staff_mcom_adv_acc
+
+- intent: undergrad_staff_ftnmp
   examples: |
-    - staff of M.Com (Advanced Accountancy) for undergraduate
-    - details of staff in M.Com (Advanced Accountancy) for undergraduate
-    - staff details of undergraduate in M.Com (Advanced Accountancy) 
-    - list of underaduate staff of M.Com (Advanced Accountancy)
-    - list of underaduate staff for M.Com (Advanced Accountancy)
-    - who are the staff in undergraduate in M.Com (Advanced Accountancy)
-    - undegraduate M.Com (Advanced Accountancy) staff
-    - staff of M.Com in Advanced Accountancy for undergraduate
-    - details of staff in M.Com in Advanced Accountancy for undergraduate
-    - staff details of undergraduate in M.Com in Advanced Accountancy 
-    - list of underaduate staff of M.Com in Advanced Accountancy
-    - list of underaduate staff for M.Com in Advanced Accountancy
-    - who are the staff in undergraduate in M.Com in Advanced Accountancy
-    - undegraduate M.Com in Advanced Accountancy staff 
-    - staff of Advanced Accountancy for undergraduate
-    - details of staff in Advanced Accountancy for undergraduate
-    - staff details of undergraduate in Advanced Accountancy 
-    - list of underaduate staff of Advanced Accountancy
-    - list of underaduate staff for Advanced Accountancy
-    - who are the staff in undergraduate in Advanced Accountancy
-    - undegraduate Advanced Accountancy staff
+    - staff of ftnmp for undergraduate
+    - details of staff in ftnmp for undergraduate
+    - staff details of undergraduate in ftnmp 
+    - list of underaduate staff of ftnmp
+    - list of underaduate staff for ftnmp
+    - who are the staff in undergraduate in ftnmp
+    - undegraduate ftnmp staff   
 
-    
+- intent: undergrad_staff_bfm
+  examples: | 
+    - staff of bfm for undergraduate
+    - details of staff in bfm for undergraduate
+    - staff details of undergraduate in bfm 
+    - list of underaduate staff of bfm
+    - list of underaduate staff for bfm
+    - who are the staff in undergraduate in bfm
+    - undegraduate bfm staff
 
-    
+- intent: undergrad_staff_bbi
+  examples: |
+    - staff of BBI for undergraduate
+    - details of staff in BBI for undergraduate
+    - staff details of undergraduate in BBI 
+    - list of underaduate staff of BBI
+    - list of underaduate staff for BBI
+    - who are the staff in undergraduate in BBI
+    - undegraduate BBI staff
+
+- intent: undergrad_staff_bcom_hons
+  examples: |
+    - staff of B.Com Hons. for undergraduate
+    - details of staff in B.Com Hons. for undergraduate
+    - staff details of undergraduate in B.Com Hons.
+    - list of underaduate staff of B.Com Hons.
+    - list of underaduate staff for B.Com Hons.
+    - who are the staff in undergraduate in B.Com Hons.
+    - undegraduate B.Com Hons. staff
+    - staff of Bcom Hons. for undergraduate
+    - details of staff in Bcom Hons. for undergraduate
+    - staff details of undergraduate in Bcom Hons.
+    - list of underaduate staff of Bcom Hons.
+    - list of underaduate staff for Bcom Hons.
+    - who are the staff in undergraduate in Bcom Hons.
+    - undegraduate Bcom Hons. staff
+    - staff of Hons. in B.Com  for undergraduate
+    - details of staff in Hons. in B.Com  for undergraduate
+    - staff details of undergraduate in Hons. in B.Com
+    - list of underaduate staff of Hons. in B.Com
+    - list of underaduate staff for Hons. in B.Com
+    - who are the staff in undergraduate in Hons. in B.Com
+    - undegraduate Hons. in B.Com  staff
+    - staff of Hons. in Bcom for undergraduate
+    - details of staff in Hons. in Bcom for undergraduate
+    - staff details of undergraduate in Hons. in Bcom
+    - list of underaduate staff of Hons. in Bcom
+    - list of underaduate staff for Hons. in Bcom
+    - who are the staff in undergraduate in Hons. in Bcom
+    - undegraduate Hons. in Bcom staff
+    - staff of Hons. in B.Com for undergraduate
+    - details of staff in Hons. in B.Com for undergraduate
+    - staff details of undergraduate in Hons. in B.Com
+    - list of underaduate staff of Hons. in B.Com
+    - list of underaduate staff for Hons. in B.Com
+    - who are the staff in undergraduate in Hons. in B.Com
+    - undegraduate Hons. in B.Com staff
+    - staff of Hons. in B.Com for undergraduate
+    - details of staff in Hons. in B.Com for undergraduate
+    - staff details of undergraduate in Hons. in B.Com
+    - list of underaduate staff of Hons. in B.Com
+    - list of underaduate staff for Hons. in B.Com
+    - who are the staff in undergraduate in Hons. in B.Com
+    - undegraduate Hons. in B.Com staff
+    - staff of Hons. in B.Com for undergraduate
+    - details of staff in Hons. in B.Com for undergraduate
+    - staff details of undergraduate in Hons. in B.Com
+    - list of underaduate staff of Hons. in B.Com
+    - list of underaduate staff for Hons. in B.Com
+    - who are the staff in undergraduate in Hons. in B.Com
+    - undegraduate Hons. in B.Com staff
