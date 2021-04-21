@@ -79,47 +79,47 @@ stories:
     - intent: undergrad_staff_science
     - action: utter_science_staff
 
-- story: send to science staff page
+- story: send to science -> botany staff page
   steps:
     - intent: undergrad_staff_botany
     - action: utter_science_staff
 
-- story: send to science staff page
+- story: send to science -> chemistry staff page
   steps:
     - intent: undergrad_staff_chemistry
     - action: utter_science_staff
 
-- story: send to science staff page
+- story: send to science -> physics staff page
   steps:
     - intent: undergrad_staff_Physics
     - action: utter_science_staff
 
-- story: send to science staff page
+- story: send to science -> bio tech staff page
   steps:
     - intent: undergrad_staff_bio_tech
     - action: utter_science_staff
 
-- story: send to science staff page
+- story: send to science -> zoology staff page
   steps:
     - intent: undergrad_staff_zoology
     - action: utter_science_staff
 
-- story: send to science staff page
+- story: send to science -> cs staff page
   steps:
     - intent: undergrad_staff_cs
     - action: utter_science_staff
 
-- story: send to science staff page
+- story: send to science -> it staff page
   steps:
     - intent: undergrad_staff_it
     - action: utter_science_staff
 
-- story: send to science staff page
+- story: send to science -> maths staff page
   steps:
     - intent: undergrad_staff_maths
     - action: utter_science_staff
 
-- story: send to science staff page
+- story: send to science -> stats staff page
   steps:
     - intent: undergrad_staff_stats
     - action: utter_science_staff
@@ -127,80 +127,80 @@ stories:
 - story: send to commerce staff page
   steps:
     - intent: undergrad_staff_commerce
-    - action: utter_mission
+    - action: utter_commerce_staff
 
-- story: send to commerce staff page
+- story: send to commerce -> bcom com staff page
   steps:
     - intent: undergrad_staff_business_com
-    - action: utter_mission
+    - action: utter_commerce_staff
 
-- story: send to commerce staff page
+- story: send to commerce -> staff law staff page
   steps:
     - intent: undergrad_staff_law
-    - action: utter_mission
+    - action: utter_commerce_staff
 
-- story: send to commerce staff page
+- story: send to commerce -> env stds staff page
   steps:
     - intent: undergrad_staff_env_stds
-    - action: utter_mission
+    - action: utter_commerce_staff
 
-- story: send to commerce staff page
+- story: send to commerce -> eco staff page
   steps:
     - intent: undergrad_staff_eco
-    - action: utter_mission
+    - action: utter_commerce_staff
 
-- story: send to commerce staff page
+- story: send to commerce -> accounts staff page
   steps:
     - intent: undergrad_staff_accounts
-    - action: utter_mission
+    - action: utter_commerce_staff
 
-- story: send to commerce staff page
+- story: send to commerce -> baf staff page
   steps:
     - intent: undergrad_staff_baf
-    - action: utter_mission
+    - action: utter_commerce_staff
 
-- story: send to commerce staff page
+- story: send to commerce -> bms staff page
   steps:
     - intent: undergrad_staff_bms
-    - action: utter_mission
+    - action: utter_commerce_staff
 
-- story: send to commerce staff page
+- story: send to commerce -> bammc staff page
   steps:
     - intent: undergrad_staff_bammc
-    - action: utter_mission
+    - action: utter_commerce_staff
 
-- story: send to commerce staff page
+- story: send to commerce bcom hons staff page
   steps:
     - intent: undergrad_staff_bcom_hons
-    - action: utter_mission
+    - action: utter_commerce_staff
 
-- story: send to commerce staff page
+- story: send to commerce -> bbi staff page
   steps:
     - intent: undergrad_staff_bbi
-    - action: utter_mission
+    - action: utter_commerce_staff
 
-- story: send to commerce staff page
+- story: send to commerce -> bfm staff page
   steps:
     - intent: undergrad_staff_bfm
-    - action: utter_mission
+    - action: utter_commerce_staff
 
-- story: send to commerce staff page
+- story: send to commerce -> ftnmp staff page
   steps:
     - intent: undergrad_staff_ftnmp
-    - action: utter_mission
+    - action: utter_commerce_staff
 
-- story: send to commerce staff page
+- story: send to commerce -> ma media staff page
   steps:
     - intent: undergrad_staff_ma_media
-    - action: utter_mission
+    - action: utter_commerce_staff
 
-- story: send to commerce staff page
+- story: send to commerce -> mcom ecom staff page
   steps:
     - intent: undergrad_staff_mcom_ecom
-    - action: utter_mission
+    - action: utter_commerce_staff
 
-- story: send to commerce staff page
+- story: send to commerce -> mcom adv acc staff page
   steps:
     - intent: undergrad_staff_mcom_adv_acc
-    - action: utter_mission
+    - action: utter_commerce_staff
 
