@@ -98,6 +98,11 @@ nlu:
     - college website?
     - link for website?
     - website?
+    - visit site
+    - what is the site of college?
+    - college site?
+    - link for site?
+    - site?
 
 - intent: attendance_page
   examples: |
@@ -256,8 +261,8 @@ nlu:
     - staff of science for undergraduate
     - details of staff in science for undergraduate
     - staff details of undergraduate in science 
-    - list of underaduate staff of science
-    - list of underaduate staff for science
+    - list of undergaduate staff of science
+    - list of undergaduate staff for science
     - who are the staff in undergraduate in science
     - undegraduate science staff
 
@@ -266,8 +271,8 @@ nlu:
     - staff of botany for undergraduate
     - details of staff in botany for undergraduate
     - staff details of undergraduate in botany 
-    - list of underaduate staff of botany
-    - list of underaduate staff for botany
+    - list of undergaduate staff of botany
+    - list of undergaduate staff for botany
     - who are the staff in undergraduate in botany
     - undegraduate botany staff
     
@@ -276,8 +281,8 @@ nlu:
     - staff of Chemistry for undergraduate
     - details of staff in Chemistry for undergraduate
     - staff details of undergraduate in Chemistry 
-    - list of underaduate staff of Chemistry
-    - list of underaduate staff for Chemistry
+    - list of undergaduate staff of Chemistry
+    - list of undergaduate staff for Chemistry
     - who are the staff in undergraduate in Chemistry
     - undegraduate Chemistry staff
     
@@ -286,8 +291,8 @@ nlu:
     - staff of Physics for undergraduate
     - details of staff in Physics for undergraduate
     - staff details of undergraduate in Physics 
-    - list of underaduate staff of Physics
-    - list of underaduate staff for Physics
+    - list of undergaduate staff of Physics
+    - list of undergaduate staff for Physics
     - who are the staff in undergraduate in Physics
     - undegraduate Physics staff
     
@@ -296,8 +301,8 @@ nlu:
     - staff of Bio-Technology for undergraduate
     - details of staff in Bio-Technology for undergraduate
     - staff details of undergraduate in Bio-Technology 
-    - list of underaduate staff of Bio-Technology
-    - list of underaduate staff for Bio-Technology
+    - list of undergaduate staff of Bio-Technology
+    - list of undergaduate staff for Bio-Technology
     - who are the staff in undergraduate in Bio-Technology
     - undegraduate Bio-Technology staff
 
@@ -306,8 +311,8 @@ nlu:
     - staff of Zoology for undergraduate
     - details of staff in Zoology for undergraduate
     - staff details of undergraduate in Zoology 
-    - list of underaduate staff of Zoology
-    - list of underaduate staff for Zoology
+    - list of undergaduate staff of Zoology
+    - list of undergaduate staff for Zoology
     - who are the staff in undergraduate in Zoology
     - undegraduate Zoology staff
     
@@ -316,15 +321,15 @@ nlu:
     - staff of Computer Science for undergraduate
     - details of staff in Computer Science for undergraduate
     - staff details of undergraduate in Computer Science 
-    - list of underaduate staff of Computer Science
-    - list of underaduate staff for Computer Science
+    - list of undergaduate staff of Computer Science
+    - list of undergaduate staff for Computer Science
     - who are the staff in undergraduate in Computer Science
     - undegraduate Computer Science staff
     - staff of CS for undergraduate
     - details of staff in CS for undergraduate
     - staff details of undergraduate in CS 
-    - list of underaduate staff of CS
-    - list of underaduate staff for CS
+    - list of undergaduate staff of CS
+    - list of undergaduate staff for CS
     - who are the staff in undergraduate in CS
     - undegraduate CS staff
     
@@ -333,15 +338,15 @@ nlu:
     - staff of Information Technology for undergraduate
     - details of staff in Information Technology for undergraduate
     - staff details of undergraduate in Information Technology 
-    - list of underaduate staff of Information Technology
-    - list of underaduate staff for Information Technology
+    - list of undergaduate staff of Information Technology
+    - list of undergaduate staff for Information Technology
     - who are the staff in undergraduate in Information Technology
     - undegraduate Information Technology staff
     - staff of IT for undergraduate
     - details of staff in IT for undergraduate
     - staff details of undergraduate in IT 
-    - list of underaduate staff of IT
-    - list of underaduate staff for IT
+    - list of undergaduate staff of IT
+    - list of undergaduate staff for IT
     - who are the staff in undergraduate in IT
     - undegraduate IT staff
     
@@ -350,8 +355,8 @@ nlu:
     - staff of Mathematics for undergraduate
     - details of staff in Mathematics for undergraduate
     - staff details of undergraduate in Mathematics 
-    - list of underaduate staff of Mathematics
-    - list of underaduate staff for Mathematics
+    - list of undergaduate staff of Mathematics
+    - list of undergaduate staff for Mathematics
     - who are the staff in undergraduate in Mathematics
     - undegraduate Mathematics staff
     
@@ -360,8 +365,8 @@ nlu:
     - staff of Statistics for undergraduate
     - details of staff in Statistics for undergraduate
     - staff details of undergraduate in Statistics 
-    - list of underaduate staff of Statistics
-    - list of underaduate staff for Statistics
+    - list of undergaduate staff of Statistics
+    - list of undergaduate staff for Statistics
     - who are the staff in undergraduate in Statistics
     - undegraduate Statistics staff
 
@@ -370,8 +375,8 @@ nlu:
     - staff of commerce for undergraduate
     - details of staff in commerce for undergraduate
     - staff details of undergraduate in commerce 
-    - list of underaduate staff of commerce
-    - list of underaduate staff for commerce
+    - list of undergaduate staff of commerce
+    - list of undergaduate staff for commerce
     - who are the staff in undergraduate in commerce
     - undegraduate commerce staff
 
@@ -380,8 +385,8 @@ nlu:
     - staff of Business Communication for undergraduate
     - details of staff in Business Communication for undergraduate
     - staff details of undergraduate in Business Communication 
-    - list of underaduate staff of Business Communication
-    - list of underaduate staff for Business Communication
+    - list of undergaduate staff of Business Communication
+    - list of undergaduate staff for Business Communication
     - who are the staff in undergraduate in Business Communication
     - undegraduate Business Communication staff
 
@@ -390,8 +395,8 @@ nlu:
     - staff of Law for undergraduate
     - details of staff in Law for undergraduate
     - staff details of undergraduate in Law 
-    - list of underaduate staff of Law
-    - list of underaduate staff for Law
+    - list of undergaduate staff of Law
+    - list of undergaduate staff for Law
     - who are the staff in undergraduate in Law
     - undegraduate Law staff
 
@@ -400,22 +405,22 @@ nlu:
     - staff of Environmental Studies for undergraduate
     - details of staff in Environmental Studies for undergraduate
     - staff details of undergraduate in Environmental Studies 
-    - list of underaduate staff of Environmental Studies
-    - list of underaduate staff for Environmental Studies
+    - list of undergaduate staff of Environmental Studies
+    - list of undergaduate staff for Environmental Studies
     - who are the staff in undergraduate in Environmental Studies
     - undegraduate Environmental Studies staff
     - staff of Foundation Course for undergraduate
     - details of staff in Foundation Course for undergraduate
     - staff details of undergraduate in Foundation Course 
-    - list of underaduate staff of Foundation Course
-    - list of underaduate staff for Foundation Course
+    - list of undergaduate staff of Foundation Course
+    - list of undergaduate staff for Foundation Course
     - who are the staff in undergraduate in Foundation Course
     - undegraduate Foundation Course staff
     - staff of Environmental Studies/Foundation Course for undergraduate
     - details of staff in Environmental Studies/Foundation Course for undergraduate
     - staff details of undergraduate in Environmental Studies/Foundation Course 
-    - list of underaduate staff of Environmental Studies/Foundation Course
-    - list of underaduate staff for Environmental Studies/Foundation Course
+    - list of undergaduate staff of Environmental Studies/Foundation Course
+    - list of undergaduate staff for Environmental Studies/Foundation Course
     - who are the staff in undergraduate in Environmental Studies/Foundation Course
     - undegraduate Environmental Studies/Foundation Course staff
 
@@ -424,8 +429,8 @@ nlu:
     - staff of Economics for undergraduate
     - details of staff in Economics for undergraduate
     - staff details of undergraduate in Economics 
-    - list of underaduate staff of Economics
-    - list of underaduate staff for Economics
+    - list of undergaduate staff of Economics
+    - list of undergaduate staff for Economics
     - who are the staff in undergraduate in Economics
     - undegraduate Economics staff
     
@@ -434,8 +439,8 @@ nlu:
     - staff of Accountancy for undergraduate
     - details of staff in Accountancy for undergraduate
     - staff details of undergraduate in Accountancy 
-    - list of underaduate staff of Accountancy
-    - list of underaduate staff for Accountancy
+    - list of undergaduate staff of Accountancy
+    - list of undergaduate staff for Accountancy
     - who are the staff in undergraduate in Accountancy
     - undegraduate Accountancy staff
     
@@ -444,8 +449,8 @@ nlu:
     - staff of BAF for undergraduate
     - details of staff in BAF for undergraduate
     - staff details of undergraduate in BAF 
-    - list of underaduate staff of BAF
-    - list of underaduate staff for BAF
+    - list of undergaduate staff of BAF
+    - list of undergaduate staff for BAF
     - who are the staff in undergraduate in BAF
     - undegraduate BAF staff
     
@@ -454,8 +459,8 @@ nlu:
     - staff of BMS for undergraduate
     - details of staff in BMS for undergraduate
     - staff details of undergraduate in BMS 
-    - list of underaduate staff of BMS
-    - list of underaduate staff for BMS
+    - list of undergaduate staff of BMS
+    - list of undergaduate staff for BMS
     - who are the staff in undergraduate in BMS
     - undegraduate BMS staff
     
@@ -464,8 +469,8 @@ nlu:
     - staff of BAMMC for undergraduate
     - details of staff in BAMMC for undergraduate
     - staff details of undergraduate in BAMMC 
-    - list of underaduate staff of BAMMC
-    - list of underaduate staff for BAMMC
+    - list of undergaduate staff of BAMMC
+    - list of undergaduate staff for BAMMC
     - who are the staff in undergraduate in BAMMC
     - undegraduate BAMMC staff
 
@@ -474,22 +479,22 @@ nlu:
     - staff of M.Com (Advanced Accountancy) for undergraduate
     - details of staff in M.Com (Advanced Accountancy) for undergraduate
     - staff details of undergraduate in M.Com (Advanced Accountancy) 
-    - list of underaduate staff of M.Com (Advanced Accountancy)
-    - list of underaduate staff for M.Com (Advanced Accountancy)
+    - list of undergaduate staff of M.Com (Advanced Accountancy)
+    - list of undergaduate staff for M.Com (Advanced Accountancy)
     - who are the staff in undergraduate in M.Com (Advanced Accountancy)
     - undegraduate M.Com (Advanced Accountancy) staff
     - staff of M.Com in Advanced Accountancy for undergraduate
     - details of staff in M.Com in Advanced Accountancy for undergraduate
     - staff details of undergraduate in M.Com in Advanced Accountancy 
-    - list of underaduate staff of M.Com in Advanced Accountancy
-    - list of underaduate staff for M.Com in Advanced Accountancy
+    - list of undergaduate staff of M.Com in Advanced Accountancy
+    - list of undergaduate staff for M.Com in Advanced Accountancy
     - who are the staff in undergraduate in M.Com in Advanced Accountancy
     - undegraduate M.Com in Advanced Accountancy staff 
     - staff of Advanced Accountancy for undergraduate
     - details of staff in Advanced Accountancy for undergraduate
     - staff details of undergraduate in Advanced Accountancy 
-    - list of underaduate staff of Advanced Accountancy
-    - list of underaduate staff for Advanced Accountancy
+    - list of undergaduate staff of Advanced Accountancy
+    - list of undergaduate staff for Advanced Accountancy
     - who are the staff in undergraduate in Advanced Accountancy
     - undegraduate Advanced Accountancy staff
    
@@ -498,43 +503,43 @@ nlu:
     - staff of ma in entertainment for undergraduate
     - details of staff in ma in entertainment for undergraduate
     - staff details of undergraduate in ma in entertainment 
-    - list of underaduate staff of ma in entertainment
-    - list of underaduate staff for ma in entertainment
+    - list of undergaduate staff of ma in entertainment
+    - list of undergaduate staff for ma in entertainment
     - who are the staff in undergraduate in ma in entertainment
     - undegraduate ma in entertainment staff
     - staff of ma-entertainment for undergraduate
     - details of staff in ma-entertainment for undergraduate
     - staff details of undergraduate in ma-entertainment 
-    - list of underaduate staff of ma-entertainment
-    - list of underaduate staff for ma-entertainment
+    - list of undergaduate staff of ma-entertainment
+    - list of undergaduate staff for ma-entertainment
     - who are the staff in undergraduate in ma-entertainment
     - undegraduate ma-entertainment staff
     - staff of ma media & advertising for undergraduate
     - details of staff in ma media & advertising for undergraduate
     - staff details of undergraduate in ma media & advertising 
-    - list of underaduate staff of ma media & advertising
-    - list of underaduate staff for ma media & advertising
+    - list of undergaduate staff of ma media & advertising
+    - list of undergaduate staff for ma media & advertising
     - who are the staff in undergraduate in ma media & advertising
     - undegraduate ma media & advertising staff
     - staff of ma-media & advertising for undergraduate
     - details of staff in ma-media & advertising for undergraduate
     - staff details of undergraduate in ma-media & advertising 
-    - list of underaduate staff of ma-media & advertising
-    - list of underaduate staff for ma-media & advertising
+    - list of undergaduate staff of ma-media & advertising
+    - list of undergaduate staff for ma-media & advertising
     - who are the staff in undergraduate in ma-media & advertising
     - undegraduate ma-media & advertising staff
     - staff of ma-entertainment, media & advertising for undergraduate
     - details of staff in ma-entertainment, media & advertising for undergraduate
     - staff details of undergraduate in ma-entertainment, media & advertising 
-    - list of underaduate staff of ma-entertainment, media & advertising
-    - list of underaduate staff for ma-entertainment, media & advertising
+    - list of undergaduate staff of ma-entertainment, media & advertising
+    - list of undergaduate staff for ma-entertainment, media & advertising
     - who are the staff in undergraduate in ma-entertainment, media & advertising
     - undegraduate ma-entertainment, media & advertising staff
     - staff of ma entertainment, media & advertising for undergraduate
     - details of staff in ma entertainment, media & advertising for undergraduate
     - staff details of undergraduate in ma entertainment, media & advertising 
-    - list of underaduate staff of ma entertainment, media & advertising
-    - list of underaduate staff for ma entertainment, media & advertising
+    - list of undergaduate staff of ma entertainment, media & advertising
+    - list of undergaduate staff for ma entertainment, media & advertising
     - who are the staff in undergraduate in ma entertainment, media & advertising
     - undegraduate ma entertainment, media & advertising staff
  
@@ -543,22 +548,22 @@ nlu:
     - staff of M.Com (E-commerce) for undergraduate
     - details of staff in M.Com (E-commerce) for undergraduate
     - staff details of undergraduate in M.Com (E-commerce) 
-    - list of underaduate staff of M.Com (E-commerce)
-    - list of underaduate staff for M.Com (E-commerce)
+    - list of undergaduate staff of M.Com (E-commerce)
+    - list of undergaduate staff for M.Com (E-commerce)
     - who are the staff in undergraduate in M.Com (E-commerce)
     - undegraduate M.Com (E-commerce) staff
     - staff of M.Com in E-commerce for undergraduate
     - details of staff in M.Com in E-commerce for undergraduate
     - staff details of undergraduate in M.Com in E-commerce 
-    - list of underaduate staff of M.Com in E-commerce
-    - list of underaduate staff for M.Com in E-commerce
+    - list of undergaduate staff of M.Com in E-commerce
+    - list of undergaduate staff for M.Com in E-commerce
     - who are the staff in undergraduate in M.Com in E-commerce
     - undegraduate M.Com in E-commerce staff 
     - staff of E-commerce for undergraduate
     - details of staff in E-commerce for undergraduate
     - staff details of undergraduate in E-commerce 
-    - list of underaduate staff of E-commerce
-    - list of underaduate staff for E-commerce
+    - list of undergaduate staff of E-commerce
+    - list of undergaduate staff for E-commerce
     - who are the staff in undergraduate in E-commerce
     - undegraduate E-commerce staff
 
@@ -567,8 +572,8 @@ nlu:
     - staff of ftnmp for undergraduate
     - details of staff in ftnmp for undergraduate
     - staff details of undergraduate in ftnmp 
-    - list of underaduate staff of ftnmp
-    - list of underaduate staff for ftnmp
+    - list of undergaduate staff of ftnmp
+    - list of undergaduate staff for ftnmp
     - who are the staff in undergraduate in ftnmp
     - undegraduate ftnmp staff   
 
@@ -577,8 +582,8 @@ nlu:
     - staff of bfm for undergraduate
     - details of staff in bfm for undergraduate
     - staff details of undergraduate in bfm 
-    - list of underaduate staff of bfm
-    - list of underaduate staff for bfm
+    - list of undergaduate staff of bfm
+    - list of undergaduate staff for bfm
     - who are the staff in undergraduate in bfm
     - undegraduate bfm staff
 
@@ -587,8 +592,8 @@ nlu:
     - staff of BBI for undergraduate
     - details of staff in BBI for undergraduate
     - staff details of undergraduate in BBI 
-    - list of underaduate staff of BBI
-    - list of underaduate staff for BBI
+    - list of undergaduate staff of BBI
+    - list of undergaduate staff for BBI
     - who are the staff in undergraduate in BBI
     - undegraduate BBI staff
 
@@ -597,50 +602,50 @@ nlu:
     - staff of B.Com Hons. for undergraduate
     - details of staff in B.Com Hons. for undergraduate
     - staff details of undergraduate in B.Com Hons.
-    - list of underaduate staff of B.Com Hons.
-    - list of underaduate staff for B.Com Hons.
+    - list of undergaduate staff of B.Com Hons.
+    - list of undergaduate staff for B.Com Hons.
     - who are the staff in undergraduate in B.Com Hons.
     - undegraduate B.Com Hons. staff
     - staff of Bcom Hons. for undergraduate
     - details of staff in Bcom Hons. for undergraduate
     - staff details of undergraduate in Bcom Hons.
-    - list of underaduate staff of Bcom Hons.
-    - list of underaduate staff for Bcom Hons.
+    - list of undergaduate staff of Bcom Hons.
+    - list of undergaduate staff for Bcom Hons.
     - who are the staff in undergraduate in Bcom Hons.
     - undegraduate Bcom Hons. staff
     - staff of Hons. in B.Com  for undergraduate
     - details of staff in Hons. in B.Com  for undergraduate
     - staff details of undergraduate in Hons. in B.Com
-    - list of underaduate staff of Hons. in B.Com
-    - list of underaduate staff for Hons. in B.Com
+    - list of undergaduate staff of Hons. in B.Com
+    - list of undergaduate staff for Hons. in B.Com
     - who are the staff in undergraduate in Hons. in B.Com
     - undegraduate Hons. in B.Com  staff
     - staff of Hons. in Bcom for undergraduate
     - details of staff in Hons. in Bcom for undergraduate
     - staff details of undergraduate in Hons. in Bcom
-    - list of underaduate staff of Hons. in Bcom
-    - list of underaduate staff for Hons. in Bcom
+    - list of undergaduate staff of Hons. in Bcom
+    - list of undergaduate staff for Hons. in Bcom
     - who are the staff in undergraduate in Hons. in Bcom
     - undegraduate Hons. in Bcom staff
     - staff of Hons. in B.Com for undergraduate
     - details of staff in Hons. in B.Com for undergraduate
     - staff details of undergraduate in Hons. in B.Com
-    - list of underaduate staff of Hons. in B.Com
-    - list of underaduate staff for Hons. in B.Com
+    - list of undergaduate staff of Hons. in B.Com
+    - list of undergaduate staff for Hons. in B.Com
     - who are the staff in undergraduate in Hons. in B.Com
     - undegraduate Hons. in B.Com staff
     - staff of Hons. in B.Com for undergraduate
     - details of staff in Hons. in B.Com for undergraduate
     - staff details of undergraduate in Hons. in B.Com
-    - list of underaduate staff of Hons. in B.Com
-    - list of underaduate staff for Hons. in B.Com
+    - list of undergaduate staff of Hons. in B.Com
+    - list of undergaduate staff for Hons. in B.Com
     - who are the staff in undergraduate in Hons. in B.Com
     - undegraduate Hons. in B.Com staff
     - staff of Hons. in B.Com for undergraduate
     - details of staff in Hons. in B.Com for undergraduate
     - staff details of undergraduate in Hons. in B.Com
-    - list of underaduate staff of Hons. in B.Com
-    - list of underaduate staff for Hons. in B.Com
+    - list of undergaduate staff of Hons. in B.Com
+    - list of undergaduate staff for Hons. in B.Com
     - who are the staff in undergraduate in Hons. in B.Com
     - undegraduate Hons. in B.Com staff
 
@@ -1153,3 +1158,65 @@ nlu:
     - information on bcom investment management
     - link for bcom investment management
     - page of bcom investment management
+
+- intent: send_courses
+  examples: |
+      - what courses college offer?
+      - list of all the courses?
+      - list of all courses in college
+      - courses that college offer
+      - all courses that college offer
+      - what are the courses?
+      - which courses do college have?
+      - which all courses do you have?
+      - all courses
+      - list of courses
+      - courses offered
+      - offerred courses
+      - college courses
+
+- intent: send_hod_it
+  examples: |
+      - who is the hod of IT?
+      - hod it
+      - it hod
+      - who is it hod?
+      - hod of it department
+      - it department hod
+      - hod of department of it
+      - who is the hod of information technology?
+      - hod information technology
+      - information technology hod
+      - who is information technology hod?
+      - hod of information technology department
+      - information technology department hod
+      - hod of department of information technology
+
+- intent: send_it_activities
+  examples: |
+      - activities of it department
+      - it department activities
+      - dpartment it activities
+      - activities in it department
+      - it activities
+      - activities performed in it department
+      - activities of information technologies department
+      - information technologies department activities
+      - dpartment information technologies activities
+      - activities in information technologies department
+      - information technologies activities
+      - activities performed in information technologies department
+
+- intent: send_all_activities
+  examples: |
+      - activities of all department
+      - all department activities
+      - department all activities
+      - activities in all department
+      - all activities
+      - activities performed in all department
+      - college activities
+      - activities in college
+      - activities of college
+
+      

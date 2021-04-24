@@ -60,6 +60,10 @@ intents:
   - send_documents
   - send_placement_companies
   - send_duration
+  - send_courses
+  - send_hod_it
+  - send_it_activities
+  - send_all_activities
 
 responses:
   utter_greet:
@@ -164,6 +168,18 @@ responses:
 
   utter_send_duration:
   - text: "We have 3 Years i.e 6 semester."
+
+  utter_send_courses:
+  - text: "Undergraduate programs<br><ul>&nbsp;&nbsp;&nbsp;<li>in Science we have: - BSc. of (IT, CS, DS, Bio Tech, Aviation)</li><br>&nbsp;&nbsp;&nbsp;<li>in Commerce we have: - (B.Com, BMM, BAF, BA(Film Making), BMS</ul>"
+
+  utter_send_it_activities:
+  - text: "You can get all the activities here:  <a href='https://www.tcsc.edu.in/page/activities-department-of-information-technology-activities' target='_blank'>https://www.tcsc.edu.in/page/activities-department-of-information-technology-activities</a>"
+
+  utter_send_hod_it:
+  - text: "<b>Dr. S. K. Singh</b>"
+
+  utter_send_all_activities:
+  - text: "You can get all the activities here:  <a href='https://www.tcsc.edu.in/page/activities' target='_blank'>https://www.tcsc.edu.in/page/activities</a>"
 
   # utter_default:
   #   - text: "I'm sorry couldn't understand you, would you please rephrase it ?"

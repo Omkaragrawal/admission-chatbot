@@ -288,3 +288,18 @@ stories:
   steps:
     - intent: send_duration
     - action: utter_send_duration
+
+- story: respond with hod of it
+  steps:
+    - intent: send_hod_it
+    - action: utter_send_hod_it
+
+- story: respond with activities of IT
+  steps:
+    - intent: send_it_activities
+    - action: utter_send_it_activities
+
+- story: respond with activities of all
+  steps:
+    - intent: send_all_activities
+    - action: utter_send_all_activities
