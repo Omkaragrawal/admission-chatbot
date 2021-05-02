@@ -381,6 +381,9 @@ nlu:
     - it staff
     - it professors
     - professors of it
+    - staff of it department
+    - staff of it section
+    - it section staff
     
 - intent: undergrad_staff_maths
   examples: |
