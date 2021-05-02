@@ -289,6 +289,11 @@ stories:
     - intent: send_duration
     - action: utter_send_duration
 
+- story: respond with all
+  steps:
+    - intent: send_courses
+    - action: utter_send_courses
+
 - story: respond with hod of it
   steps:
     - intent: send_hod_it

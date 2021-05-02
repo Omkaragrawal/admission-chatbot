@@ -113,52 +113,52 @@ responses:
   - text: "We, at the Thakur College of Science and Commerce will strive to achieve excellence through quality education by providing the right academic ambience for overall development of all the students so they progress upwards."
 
   utter_science_staff:
-  - text: "Sure you can find all the details here<a herf='https://www.tcsc.edu.in/page/staff-undergraduate-science-staff' target = '_blank'>https://www.tcsc.edu.in/page/staff-undergraduate-science-staff</a>"
+  - text: "Esteemed professors of It department:<br> <ul><li>Mr. Omkar Singh<br>Qualification: M.Sc. (C.S.), MCA, NCST</li><br><li>Ms. Jyotsana Anthal<br>Qualification: MCA</li><br><li>Mr. Abhijeet Pawaskar<br>Qualification: M.Sc. I.T.</li><br><li>Mr. Anand Upadhaya<br>Qualification: M.Sc. (I.T)</li></ul><br> More of our staffs are listed here <a herf='https://www.tcsc.edu.in/page/staff-undergraduate-science-staff' target = '_blank'>https://www.tcsc.edu.in/page/staff-undergraduate-science-staff</a>"
 
   utter_commerce_staff:
-  - text: "Sure you can find all the details here<a herf='https://www.tcsc.edu.in/page/staff-undergraduate-commerce-staff' target = '_blank'>https://www.tcsc.edu.in/page/staff-undergraduate-commerce-staff</a>"
+  - text: "Sure you can find all the details here <a herf='https://www.tcsc.edu.in/page/staff-undergraduate-commerce-staff' target = '_blank'>https://www.tcsc.edu.in/page/staff-undergraduate-commerce-staff</a>"
 
   utter_bcom_investment_mgm:
-  - text: "Sure you can find all the details here<a href='https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-com-investment-management-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-com-investment-management-academics</a>"
+  - text: "Sure you can find all the details here <a href='https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-com-investment-management-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-com-investment-management-academics</a>"
 
   utter_bcom_finan_mrkt:
-  - text: "Sure you can find all the details here<a href='https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-com-financial-markets-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-com-financial-markets-academics</a>"
+  - text: "Sure you can find all the details here <a href='https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-com-financial-markets-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-com-financial-markets-academics</a>"
 
   utter_bcom_banking_insurance:
-  - text: "Sure you can find all the details here<a href='https://www.tcsc.edu.in/page/academics-undergraduate-programs-academics-b-com-banking-insurance-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-programs-academics-b-com-banking-insurance-academics</a>"
+  - text: "Sure you can find all the details here <a href='https://www.tcsc.edu.in/page/academics-undergraduate-programs-academics-b-com-banking-insurance-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-programs-academics-b-com-banking-insurance-academics</a>"
 
   utter_bmm:
-  - text: "Sure you can find all the details here<a href='https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-m-m-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-m-m-academics</a>"
+  - text: "Sure you can find all the details here <a href='https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-m-m-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-m-m-academics</a>"
 
   utter_ba_film_tv_media_prod:
-  - text: "Sure you can find all the details here<a href='https://www.tcsc.edu.in/page/academics-undergraduate-programs-academics-b-a-film-tv-new-media-production-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-programs-academics-b-a-film-tv-new-media-production-academics</a>"
+  - text: "Sure you can find all the details here <a href='https://www.tcsc.edu.in/page/academics-undergraduate-programs-academics-b-a-film-tv-new-media-production-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-programs-academics-b-a-film-tv-new-media-production-academics</a>"
 
   utter_baf:
-  - text: "Sure you can find all the details here<a href='https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-a-f-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-a-f-academics</a>"
+  - text: "Sure you can find all the details here <a href='https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-a-f-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-a-f-academics</a>"
 
   utter_bms:
-  - text: "Sure you can find all the details here<a href='https://www.tcsc.edu.in/page/academics-undergraduate-programs-academics-b-m-s-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-programs-academics-b-m-s-academics</a>"
+  - text: "Sure you can find all the details here <a href='https://www.tcsc.edu.in/page/academics-undergraduate-programs-academics-b-m-s-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-programs-academics-b-m-s-academics</a>"
 
   utter_bcom:
-  - text: "Sure you can find all the details here<a href='https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-com-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-com-academics</a>"
+  - text: "Sure you can find all the details here <a href='https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-com-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-com-academics</a>"
 
   utter_bsc_aviation:
-  - text: "Sure you can find all the details here<a href='https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-sc-aviation-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-sc-aviation-academics</a>"
+  - text: "Sure you can find all the details here <a href='https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-sc-aviation-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-sc-aviation-academics</a>"
 
   utter_bsc_bio_tech:
-  - text: "Sure you can find all the details here<a href='https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-sc-bio-technology-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-sc-bio-technology-academics</a>"
+  - text: "Sure you can find all the details here <a href='https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-sc-bio-technology-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-sc-bio-technology-academics</a>"
 
   utter_bsc_cs:
-  - text: "Sure you can find all the details here<a href='https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-sc-c-s-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-sc-c-s-academics</a>"
+  - text: "Sure you can find all the details here <a href='https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-sc-c-s-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-sc-c-s-academics</a>"
 
   utter_bsc_it:
-  - text: "Sure you can find all the details here<a href='https://www.tcsc.edu.in/page/academics-undergraduate-programs-academics-b-sc-i-t-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-programs-academics-b-sc-i-t-academics</a>"
+  - text: "Sure you can find all the details here <a href='https://www.tcsc.edu.in/page/academics-undergraduate-programs-academics-b-sc-i-t-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-programs-academics-b-sc-i-t-academics</a>"
 
   utter_bsc:
-  - text: "Sure you can find all the details here<a href='https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-sc-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-sc-academics</a>"
+  - text: "Sure you can find all the details here <a href='https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-sc-academics' target='_blank'>https://www.tcsc.edu.in/page/academics-undergraduate-courses-academics-b-sc-academics</a>"
 
   utter_placement_records:
-  - text: "Sure you can find all the details here<a href='https://sites.google.com/site/tpctcsc' target='_blank'>https://sites.google.com/site/tpctcsc</a>"
+  - text: "Sure you can find all the details here <a href='https://sites.google.com/site/tpctcsc' target='_blank'>https://sites.google.com/site/tpctcsc</a>"
 
   utter_send_documents:
   - text: "Documents to be submitted along with Admission Form<br> <ul> <li>Original to show, and photocopy</li><br> <li>Statement of Marks 2 attested copies</li><br> <li>School Leaving Certificate 1 attested copy</li><br> <li>Caste Certificate, if applicable – 1 attested copy</li></ul>"

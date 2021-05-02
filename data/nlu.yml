@@ -342,13 +342,45 @@ nlu:
     - list of undergaduate staff for Information Technology
     - who are the staff in undergraduate in Information Technology
     - undegraduate Information Technology staff
-    - staff of IT for undergraduate
-    - details of staff in IT for undergraduate
-    - staff details of undergraduate in IT 
-    - list of undergaduate staff of IT
-    - list of undergaduate staff for IT
-    - who are the staff in undergraduate in IT
-    - undegraduate IT staff
+    - staff of it for undergraduate
+    - details of staff in it for undergraduate
+    - staff details of undergraduate in it 
+    - list of undergaduate staff of it
+    - list of undergaduate staff for it
+    - who are the staff in undergraduate in it
+    - undegraduate it staff
+    - professor of Information Technology for undergraduate
+    - details of professor in Information Technology for undergraduate
+    - professor details of undergraduate in Information Technology 
+    - list of undergaduate professor of Information Technology
+    - list of undergaduate professor for Information Technology
+    - who are the professor in undergraduate in Information Technology
+    - undegraduate Information Technology professor
+    - professor of it for undergraduate
+    - details of professor in it for undergraduate
+    - professor details of undergraduate in it 
+    - list of undergaduate professor of it
+    - list of undergaduate professor for it
+    - who are the professor in undergraduate in it
+    - undegraduate it professor
+    - teacher of Information Technology for undergraduate
+    - details of teacher in Information Technology for undergraduate
+    - teacher details of undergraduate in Information Technology 
+    - list of undergaduate teacher of Information Technology
+    - list of undergaduate teacher for Information Technology
+    - who are the teacher in undergraduate in Information Technology
+    - undegraduate Information Technology teacher
+    - teacher of it for undergraduate
+    - details of teacher in it for undergraduate
+    - teacher details of undergraduate in it 
+    - list of undergaduate teacher of it
+    - list of undergaduate teacher for it
+    - who are the teacher in undergraduate in it
+    - undegraduate it teacher
+    - staff of it
+    - it staff
+    - it professors
+    - professors of it
     
 - intent: undergrad_staff_maths
   examples: |
@@ -1174,6 +1206,24 @@ nlu:
       - courses offered
       - offerred courses
       - college courses
+      - what courses does college offer?
+      - what courses are offered
+      - offered courses
+      - what courses are available in college?
+      - list of all the courses available?
+      - list of all available courses in college
+      - available courses in college
+      - all courses available in college
+      - what are the courses available?
+      - which available courses do college have?
+      - which all available courses do you have?
+      - all available courses
+      - list of avilable courses
+      - courses available
+      - available courses
+      - college courses available
+      - what courses are there
+      - given courses
 
 - intent: send_hod_it
   examples: |
